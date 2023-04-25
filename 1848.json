@@ -4381,10 +4381,14 @@
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
-                                        "format": "text/plain" 
-
+                                        "format": "text/plain"
                                     },
-                                    "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=3942,2625,622,676"
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "xywh=3942,2625,622,676"
+                                        }
                                 },
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/4",
