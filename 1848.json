@@ -4320,17 +4320,16 @@
                                     "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f70",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
-                                },
-                                "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
-                                "motivation": "sc:painting"
-
+                            },
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                            "motivation": "sc:painting"
                         }
                     ],
                     "otherContent": [
                         {
                             "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/annotations",
                             "@type": "sc:AnnotationList",
-                            "label" : "COA"
+                            "label": "COA"
                         }
                     ],
                     "annotations": [
@@ -4345,9 +4344,8 @@
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
-                                        "format": "text/plain" 
-
-                                    }, 
+                                        "format": "text/plain"
+                                    },
                                     "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=4414,3727,410,373"
                                 },
                                 {
@@ -4357,9 +4355,8 @@
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
-                                        "format": "text/plain" 
-
-                                    }, 
+                                        "format": "text/plain"
+                                    },
                                     "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=3755,228,1004,934"
                                 },
                                 {
@@ -4369,9 +4366,8 @@
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
-                                        "format": "text/plain" 
-
-                                    }, 
+                                        "format": "text/plain"
+                                    },
                                     "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=997,2606,672,751"
                                 },
                                 {
@@ -4389,6 +4385,7 @@
                                             "type": "FragmentSelector",
                                             "value": "xywh=3942,2625,622,676"
                                         }
+                                    }
                                 },
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/4",
@@ -4397,8 +4394,7 @@
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
-                                        "format": "text/plain" 
-
+                                        "format": "text/plain"
                                     },
                                     "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=1014,313,659,699"
                                 },
@@ -4409,8 +4405,7 @@
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
-                                        "format": "text/plain" 
-
+                                        "format": "text/plain"
                                     },
                                     "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=1962,307,691,751"
                                 },
@@ -4421,8 +4416,7 @@
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
-                                        "format": "text/plain" 
-
+                                        "format": "text/plain"
                                     },
                                     "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=4911,324,730,704"
                                 },
@@ -4433,8 +4427,7 @@
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
-                                        "format": "text/plain" 
-
+                                        "format": "text/plain"
                                     },
                                     "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=2080,2667,515,623"
                                 },
@@ -4445,8 +4438,7 @@
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
-                                        "format": "text/plain" 
-
+                                        "format": "text/plain"
                                     },
                                     "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=4926,2593,667,685"
                                 },
@@ -4457,8 +4449,7 @@
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
-                                        "format": "text/plain" 
-
+                                        "format": "text/plain"
                                     },
                                     "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=4767,2475,1046,982"
                                 }
