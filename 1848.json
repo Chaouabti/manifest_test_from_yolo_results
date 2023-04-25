@@ -4341,7 +4341,7 @@
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/0",
                                     "type": "Annotation",
-                                    "motivation": "tagging",
+                                    "motivation": "highlighting",
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
@@ -4353,7 +4353,7 @@
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/1",
                                     "type": "Annotation",
-                                    "motivation": "tagging",
+                                    "motivation": "highlighting",
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
@@ -4365,7 +4365,7 @@
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/2",
                                     "type": "Annotation",
-                                    "motivation": "tagging",
+                                    "motivation": "highlighting",
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
@@ -4377,7 +4377,7 @@
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/3",
                                     "type": "Annotation",
-                                    "motivation": "tagging",
+                                    "motivation": "highlighting",
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
@@ -4389,7 +4389,7 @@
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/4",
                                     "type": "Annotation",
-                                    "motivation": "tagging",
+                                    "motivation": "highlighting",
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
@@ -4401,7 +4401,7 @@
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/5",
                                     "type": "Annotation",
-                                    "motivation": "tagging",
+                                    "motivation": "highlighting",
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
@@ -4413,7 +4413,7 @@
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/6",
                                     "type": "Annotation",
-                                    "motivation": "tagging",
+                                    "motivation": "highlighting",
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
@@ -4425,7 +4425,7 @@
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/7",
                                     "type": "Annotation",
-                                    "motivation": "tagging",
+                                    "motivation": "highlighting",
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
@@ -4437,7 +4437,7 @@
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/8",
                                     "type": "Annotation",
-                                    "motivation": "tagging",
+                                    "motivation": "highlighting",
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
@@ -4449,7 +4449,7 @@
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/9",
                                     "type": "Annotation",
-                                    "motivation": "tagging",
+                                    "motivation": "highlighting",
                                     "body": {
                                         "type": "TextualBody",
                                         "value": "Coat of Arm",
