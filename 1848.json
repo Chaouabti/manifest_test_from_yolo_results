@@ -4348,7 +4348,7 @@
                                         "format": "text/plain" 
 
                                     }, 
-                                    "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=4414,3727,410,373"
+                                    "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=4414,3727,410,373"
                                 },
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/1",
@@ -4360,7 +4360,7 @@
                                         "format": "text/plain" 
 
                                     }, 
-                                    "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=3755,228,1004,934"
+                                    "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=3755,228,1004,934"
                                 },
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/2",
@@ -4372,7 +4372,7 @@
                                         "format": "text/plain" 
 
                                     }, 
-                                    "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=997,2606,672,751"
+                                    "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=997,2606,672,751"
                                 },
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/3",
@@ -4384,7 +4384,7 @@
                                         "format": "text/plain" 
 
                                     },
-                                    "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=3942,2625,622,676"
+                                    "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=3942,2625,622,676"
                                 },
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/4",
@@ -4396,7 +4396,7 @@
                                         "format": "text/plain" 
 
                                     },
-                                    "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=1014,313,659,699"
+                                    "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=1014,313,659,699"
                                 },
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/5",
@@ -4408,7 +4408,7 @@
                                         "format": "text/plain" 
 
                                     },
-                                    "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=1962,307,691,751"
+                                    "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=1962,307,691,751"
                                 },
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/6",
@@ -4420,7 +4420,7 @@
                                         "format": "text/plain" 
 
                                     },
-                                    "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=4911,324,730,704"
+                                    "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=4911,324,730,704"
                                 },
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/7",
@@ -4432,7 +4432,7 @@
                                         "format": "text/plain" 
 
                                     },
-                                    "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=2080,2667,515,623"
+                                    "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=2080,2667,515,623"
                                 },
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/8",
@@ -4444,7 +4444,7 @@
                                         "format": "text/plain" 
 
                                     },
-                                    "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=4926,2593,667,685"
+                                    "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=4926,2593,667,685"
                                 },
                                 {
                                     "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f855915-d5dc-4af1-93d7-a5ecc78dc0cd/9",
@@ -4456,7 +4456,7 @@
                                         "format": "text/plain" 
 
                                     },
-                                    "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=4767,2475,1046,982"
+                                    "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/#xywh=4767,2475,1046,982"
                                 }
                             ]
                         }
