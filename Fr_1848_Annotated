@@ -1,0 +1,3076 @@
+{
+    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/manifest.json",
+    "label": "BnF. D\u00e9partement des Manuscrits. Fran\u00e7ais 18648",
+    "attribution": "Biblioth\u00e8que nationale de France",
+    "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+    "logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+    "related": "https://gallica.bnf.fr/ark:/12148/btv1b90619753",
+    "seeAlso": ["http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b90619753"],
+    "description": "M\u00e9langes h\u00e9raldiques, armoriaux, etc., comprenant principalement des copies faites sur un ou plusieurs manuscrits des Bigot.",
+    "metadata": [
+        {
+            "label": "Repository",
+            "value": ""
+        },
+        {
+            "label": "Digitised by",
+            "value": "Biblioth\u00e8que nationale de France"
+        },
+        {
+            "label": "Source Images",
+            "value": "https://gallica.bnf.fr/ark:/12148/btv1b90619753"
+        },
+        {
+            "label": "Metadata Source",
+            "value": "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b90619753"
+        },
+        {
+            "label": "Shelfmark",
+            "value": "Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Fran\u00e7ais 18648"
+        },
+        {
+            "label": "Title",
+            "value": "M\u00e9langes h\u00e9raldiques, armoriaux, etc., comprenant principalement des copies faites sur un ou plusieurs manuscrits des Bigot."
+        },
+        {
+            "label": "Date",
+            "value": "1601-1700"
+        },
+        {
+            "label": "Language",
+            "value": "fran\u00e7ais"
+        },
+        {
+            "label": "Format",
+            "value": "Papier. - I et 77 feuillets. - 310 \u00d7 210 mm. - Reliure parchemin blanc"
+        },
+        {
+            "label": "Relation",
+            "value": "Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc47917z"
+        },
+        {
+            "label": "Type",
+            "value": "Manuscrit"
+        }
+    ],
+    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753.thumbnail"},
+    "@type": "sc:Manifest",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "sequences": [
+        {
+            "canvases": [
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f59",
+                    "label": "NP",
+                    "height": 4995,
+                    "width": 6597,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f59",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f59"
+                                },
+                                "height": 4995,
+                                "width": 6597,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f59/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f59.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f59/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8ca74373-009d-4d84-85f0-e014db4904a7",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8ca74373-009d-4d84-85f0-e014db4904a7/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f59",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5182,2372,509,366"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f60",
+                    "label": "NP",
+                    "height": 4996,
+                    "width": 6594,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f60",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f60"
+                                },
+                                "height": 4996,
+                                "width": 6594,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f60/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f60.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f60/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7cc3b77b-1ee2-4519-8f88-2a6b15847884",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7cc3b77b-1ee2-4519-8f88-2a6b15847884/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f60",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5164,770,554,320"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f61",
+                    "label": "NP",
+                    "height": 4991,
+                    "width": 6587,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f61",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f61"
+                                },
+                                "height": 4991,
+                                "width": 6587,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f61/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f61.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f61/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ed9b2a87-aead-498b-8fa3-0eecdb35ea8f",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ed9b2a87-aead-498b-8fa3-0eecdb35ea8f/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f61",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2122,2694,445,374"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
+                    "label": "NP",
+                    "height": 4993,
+                    "width": 6589,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f62"
+                                },
+                                "height": 4993,
+                                "width": 6589,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f62/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f62.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/217899c6-25bc-405c-a20d-678da724f5c5",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/217899c6-25bc-405c-a20d-678da724f5c5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3967,2869,398,505"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/217899c6-25bc-405c-a20d-678da724f5c5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5057,569,376,538"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/217899c6-25bc-405c-a20d-678da724f5c5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4043,591,397,573"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/217899c6-25bc-405c-a20d-678da724f5c5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5083,399,378,505"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
+                    "label": "NP",
+                    "height": 4989,
+                    "width": 6589,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f63"
+                                },
+                                "height": 4989,
+                                "width": 6589,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f63/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f63.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c6a4f96e-d431-48b8-a9e6-af9bcd64212d",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c6a4f96e-d431-48b8-a9e6-af9bcd64212d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3821,2795,667,598"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c6a4f96e-d431-48b8-a9e6-af9bcd64212d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4877,2640,623,695"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c6a4f96e-d431-48b8-a9e6-af9bcd64212d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4840,319,633,677"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c6a4f96e-d431-48b8-a9e6-af9bcd64212d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3657,2521,1092,958"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c6a4f96e-d431-48b8-a9e6-af9bcd64212d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1094,342,553,689"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c6a4f96e-d431-48b8-a9e6-af9bcd64212d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2080,623,442,450"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c6a4f96e-d431-48b8-a9e6-af9bcd64212d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2637,658,384,422"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c6a4f96e-d431-48b8-a9e6-af9bcd64212d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2064,294,519,480"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
+                    "label": "NP",
+                    "height": 4991,
+                    "width": 6587,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f64"
+                                },
+                                "height": 4991,
+                                "width": 6587,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f64/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f64.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d64764b-6cbc-4bde-929c-5e0fdc0a18a7",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d64764b-6cbc-4bde-929c-5e0fdc0a18a7/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3854,291,791,721"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d64764b-6cbc-4bde-929c-5e0fdc0a18a7/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1019,2655,724,641"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d64764b-6cbc-4bde-929c-5e0fdc0a18a7/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2077,322,581,647"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d64764b-6cbc-4bde-929c-5e0fdc0a18a7/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4917,371,737,652"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d64764b-6cbc-4bde-929c-5e0fdc0a18a7/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3926,2674,629,598"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d64764b-6cbc-4bde-929c-5e0fdc0a18a7/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4948,2637,593,583"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d64764b-6cbc-4bde-929c-5e0fdc0a18a7/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2088,2624,531,516"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d64764b-6cbc-4bde-929c-5e0fdc0a18a7/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1162,241,527,645"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d64764b-6cbc-4bde-929c-5e0fdc0a18a7/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1179,517,481,560"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d64764b-6cbc-4bde-929c-5e0fdc0a18a7/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1781,2501,1160,948"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d64764b-6cbc-4bde-929c-5e0fdc0a18a7/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3765,2482,994,899"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f65",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6584,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f65",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f65"
+                                },
+                                "height": 4990,
+                                "width": 6584,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f65/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f65.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f65/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/20872b43-568d-477f-bc03-c93ae0a4e33b",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/20872b43-568d-477f-bc03-c93ae0a4e33b/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f65",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1015,254,581,736"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/20872b43-568d-477f-bc03-c93ae0a4e33b/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f65",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4919,3376,395,562"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/20872b43-568d-477f-bc03-c93ae0a4e33b/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f65",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=851,2714,614,539"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
+                    "label": "NP",
+                    "height": 4994,
+                    "width": 6596,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f66"
+                                },
+                                "height": 4994,
+                                "width": 6596,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f66/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f66.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/40ed701a-097d-44fe-9ddc-e2e6637cd635",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/40ed701a-097d-44fe-9ddc-e2e6637cd635/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5103,3421,1333,1180"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/40ed701a-097d-44fe-9ddc-e2e6637cd635/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4998,2718,518,775"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/40ed701a-097d-44fe-9ddc-e2e6637cd635/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4128,281,478,606"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/40ed701a-097d-44fe-9ddc-e2e6637cd635/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5161,1804,327,403"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/40ed701a-097d-44fe-9ddc-e2e6637cd635/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5132,417,372,465"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/40ed701a-097d-44fe-9ddc-e2e6637cd635/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5151,1633,336,355"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/40ed701a-097d-44fe-9ddc-e2e6637cd635/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3696,2357,1203,1261"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6592,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f67"
+                                },
+                                "height": 4990,
+                                "width": 6592,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f67/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f67.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3904,372,919,952"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3949,2750,779,911"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4979,1768,596,698"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4938,2877,685,771"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3983,1717,665,723"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5033,575,567,638"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2062,2944,524,682"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1019,1768,542,630"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1020,2851,504,708"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2005,746,491,508"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2029,1886,495,529"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1031,734,470,535"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2abd1216-3b81-46d3-acbe-acc2b83f8d79/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5137,541,437,403"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6582,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f68"
+                                },
+                                "height": 4990,
+                                "width": 6582,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f68/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f68.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=891,1732,727,807"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=939,2808,660,844"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3897,1660,743,853"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3922,2826,689,792"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1920,1684,658,860"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=890,574,659,769"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4996,2933,590,698"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3753,466,1039,977"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1893,553,687,853"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4997,685,567,606"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4953,1785,672,675"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1993,2973,576,763"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3970,635,644,664"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6a43b3bd-a609-418b-88f6-02721b8b3586/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1870,2826,979,1002"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6589,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f69"
+                                },
+                                "height": 4990,
+                                "width": 6589,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f69/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f69.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7eb05a8b-b7ac-4a56-a551-1315a8381111",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7eb05a8b-b7ac-4a56-a551-1315a8381111/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1891,496,716,813"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7eb05a8b-b7ac-4a56-a551-1315a8381111/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3782,2474,964,1008"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7eb05a8b-b7ac-4a56-a551-1315a8381111/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1950,2738,769,881"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7eb05a8b-b7ac-4a56-a551-1315a8381111/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=975,1654,655,779"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7eb05a8b-b7ac-4a56-a551-1315a8381111/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=906,531,757,811"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7eb05a8b-b7ac-4a56-a551-1315a8381111/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3906,279,746,749"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7eb05a8b-b7ac-4a56-a551-1315a8381111/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=988,2903,613,671"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7eb05a8b-b7ac-4a56-a551-1315a8381111/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1938,1696,636,711"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7eb05a8b-b7ac-4a56-a551-1315a8381111/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5010,543,551,559"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7eb05a8b-b7ac-4a56-a551-1315a8381111/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4964,2621,578,683"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7eb05a8b-b7ac-4a56-a551-1315a8381111/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4779,2516,958,946"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                    "label": "NP",
+                    "height": 4994,
+                    "width": 6593,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f70"
+                                },
+                                "height": 4994,
+                                "width": 6593,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f70/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f70.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e02d2db-0cc3-4ffa-8756-162006746951",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e02d2db-0cc3-4ffa-8756-162006746951/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4414,3727,410,373"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e02d2db-0cc3-4ffa-8756-162006746951/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3755,228,1004,934"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e02d2db-0cc3-4ffa-8756-162006746951/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=997,2606,672,751"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e02d2db-0cc3-4ffa-8756-162006746951/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3942,2625,622,676"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e02d2db-0cc3-4ffa-8756-162006746951/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1014,313,659,699"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e02d2db-0cc3-4ffa-8756-162006746951/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1962,307,691,751"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e02d2db-0cc3-4ffa-8756-162006746951/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4911,324,730,704"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e02d2db-0cc3-4ffa-8756-162006746951/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2080,2667,515,623"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e02d2db-0cc3-4ffa-8756-162006746951/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4926,2593,667,685"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e02d2db-0cc3-4ffa-8756-162006746951/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4767,2475,1046,982"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6587,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f71"
+                                },
+                                "height": 4990,
+                                "width": 6587,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f71/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f71.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4fa88e44-6398-4f3a-902d-d134df12377e",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4fa88e44-6398-4f3a-902d-d134df12377e/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3898,299,593,651"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4fa88e44-6398-4f3a-902d-d134df12377e/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4974,2667,509,548"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4fa88e44-6398-4f3a-902d-d134df12377e/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4908,337,590,583"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4fa88e44-6398-4f3a-902d-d134df12377e/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2108,2763,476,508"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4fa88e44-6398-4f3a-902d-d134df12377e/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3690,215,981,930"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4fa88e44-6398-4f3a-902d-d134df12377e/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1050,374,541,617"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4fa88e44-6398-4f3a-902d-d134df12377e/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4033,2617,418,505"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6581,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f72"
+                                },
+                                "height": 4990,
+                                "width": 6581,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f72/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f72.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a2192c9e-82a3-47b2-914f-3b30afe659e5",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a2192c9e-82a3-47b2-914f-3b30afe659e5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3999,2898,482,487"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a2192c9e-82a3-47b2-914f-3b30afe659e5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4962,389,586,644"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a2192c9e-82a3-47b2-914f-3b30afe659e5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3670,236,1060,1031"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a2192c9e-82a3-47b2-914f-3b30afe659e5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2189,339,451,702"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a2192c9e-82a3-47b2-914f-3b30afe659e5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1163,2656,499,601"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a2192c9e-82a3-47b2-914f-3b30afe659e5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2124,2604,469,588"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a2192c9e-82a3-47b2-914f-3b30afe659e5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2575,404,383,490"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a2192c9e-82a3-47b2-914f-3b30afe659e5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2165,2871,454,466"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a2192c9e-82a3-47b2-914f-3b30afe659e5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3980,449,576,503"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a2192c9e-82a3-47b2-914f-3b30afe659e5/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5119,2769,340,411"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6589,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f73"
+                                },
+                                "height": 4990,
+                                "width": 6589,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f73/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f73.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3709,255,1038,967"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2154,446,524,579"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1109,2681,620,579"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1204,334,429,464"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3962,3450,538,549"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5122,338,549,720"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1390,306,409,531"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2158,2844,449,521"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5432,412,442,538"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1196,616,414,419"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5087,1865,381,540"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1433,646,335,392"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=3682,3127,1093,1000"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ae69c9a0-bb00-4c99-8cda-481362a6f01d/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=5026,3699,391,396"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6586,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f74"
+                                },
+                                "height": 4990,
+                                "width": 6586,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f74/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f74.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c1ee2bbc-e993-4027-af95-4674afa82f8f",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c1ee2bbc-e993-4027-af95-4674afa82f8f/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1145,696,428,376"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c1ee2bbc-e993-4027-af95-4674afa82f8f/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2534,351,367,366"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c1ee2bbc-e993-4027-af95-4674afa82f8f/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2180,392,374,435"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c1ee2bbc-e993-4027-af95-4674afa82f8f/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1093,2643,510,533"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c1ee2bbc-e993-4027-af95-4674afa82f8f/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2168,2720,426,498"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f75",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6583,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f75",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f75"
+                                },
+                                "height": 4990,
+                                "width": 6583,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f75/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f75.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f75/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ebe2753c-6bb3-424b-a5fd-ec6c3ff5ae1f",
+                            "type": "AnnotationPage",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f76",
+                    "label": "NP",
+                    "height": 4989,
+                    "width": 6592,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f76",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f76"
+                                },
+                                "height": 4989,
+                                "width": 6592,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f76/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f76.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f76/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da0f9289-faba-4dab-84ba-94045a52217d",
+                            "type": "AnnotationPage",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f77",
+                    "label": "NP",
+                    "height": 4995,
+                    "width": 6593,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f77",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f77"
+                                },
+                                "height": 4995,
+                                "width": 6593,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f77/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f77.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f77/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f1d25d8-e6ef-460e-b4bb-d8f5388bb264",
+                            "type": "AnnotationPage",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f78",
+                    "label": "NP",
+                    "height": 4994,
+                    "width": 6581,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f78",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f78"
+                                },
+                                "height": 4994,
+                                "width": 6581,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f78/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f78.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f78/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/156af554-fee3-4306-9077-5f513bfc11ac",
+                            "type": "AnnotationPage",
+                            "items": []
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f79",
+                    "label": "NP",
+                    "height": 4994,
+                    "width": 6583,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f79",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f79"
+                                },
+                                "height": 4994,
+                                "width": 6583,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f79/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f79.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f79/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/457ddd88-dda4-4c7d-b7f5-7d06437ad87a",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/457ddd88-dda4-4c7d-b7f5-7d06437ad87a/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f79",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=4583,2440,360,324"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f80",
+                    "label": "NP",
+                    "height": 4997,
+                    "width": 6592,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f80",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f80"
+                                },
+                                "height": 4997,
+                                "width": 6592,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f80/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f80.thumbnail"},
+                    "@type": "sc:Canvas",
+                    "otherContent": [
+                        {
+                            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f80/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0ef7b90f-d13c-4c47-bc9f-6bff8984b7ab",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0ef7b90f-d13c-4c47-bc9f-6bff8984b7ab/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f80",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2082,2026,302,300"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0ef7b90f-d13c-4c47-bc9f-6bff8984b7ab/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "Coat of Arm",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f80",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1730,2428,385,341"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
