@@ -94,11 +94,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/aa03c4ce-3309-466a-9a98-c21c7adae612",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/131c58e7-1755-42ca-9401-2fbdee0e934f",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/aa03c4ce-3309-466a-9a98-c21c7adae612/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/131c58e7-1755-42ca-9401-2fbdee0e934f/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -110,7 +110,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f59",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5182,2372,509,366"
+                                            "value": "#xywh=5182,2372,509,366"
                                         }
                                     }
                                 }
@@ -153,11 +153,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b0a8c70c-1852-4542-b3a3-3e31fc34d00b",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/396f6c14-b975-4665-8fd7-aac0f04a5360",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b0a8c70c-1852-4542-b3a3-3e31fc34d00b/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/396f6c14-b975-4665-8fd7-aac0f04a5360/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -169,7 +169,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f60",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5164,770,554,320"
+                                            "value": "#xywh=5164,770,554,320"
                                         }
                                     }
                                 }
@@ -212,11 +212,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1411e7a9-39eb-47cc-abee-3fa6472e3f1b",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3aeda043-51c2-4ece-8cb9-5e992c9f7327",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1411e7a9-39eb-47cc-abee-3fa6472e3f1b/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3aeda043-51c2-4ece-8cb9-5e992c9f7327/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -228,7 +228,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f61",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2122,2694,445,374"
+                                            "value": "#xywh=2122,2694,445,374"
                                         }
                                     }
                                 }
@@ -271,11 +271,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d037bb39-b148-4b1f-9dd0-79a0a3ceaa09",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3cbddce-1f34-4d1b-8d69-baf7b0159136",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d037bb39-b148-4b1f-9dd0-79a0a3ceaa09/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3cbddce-1f34-4d1b-8d69-baf7b0159136/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -287,18 +287,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3967,2869,398,505"
+                                            "value": "#xywh=3967,2869,398,505"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/811699f2-458d-43d0-a1c0-0eb2395a3eda",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/509d24b7-4906-4535-bbcf-1094eb2a9bac",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/811699f2-458d-43d0-a1c0-0eb2395a3eda/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/509d24b7-4906-4535-bbcf-1094eb2a9bac/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -310,18 +310,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5057,569,376,538"
+                                            "value": "#xywh=5057,569,376,538"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a4b2b57a-184b-4f5d-985b-1e6419c8dc2f",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f1225ac4-2975-494d-bc6e-b1b6d3646817",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a4b2b57a-184b-4f5d-985b-1e6419c8dc2f/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f1225ac4-2975-494d-bc6e-b1b6d3646817/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -333,18 +333,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4043,591,397,573"
+                                            "value": "#xywh=4043,591,397,573"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bf2741d0-353a-49ec-8309-7d889e94191a",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d8403b81-4923-4e62-b56d-41f4909c048d",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bf2741d0-353a-49ec-8309-7d889e94191a/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d8403b81-4923-4e62-b56d-41f4909c048d/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -356,7 +356,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5083,399,378,505"
+                                            "value": "#xywh=5083,399,378,505"
                                         }
                                     }
                                 }
@@ -399,11 +399,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7ae6a538-300a-4c6d-a07f-aba6e64004df",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2088a47a-f185-4a85-9dfe-9fd84a870a9d",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7ae6a538-300a-4c6d-a07f-aba6e64004df/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2088a47a-f185-4a85-9dfe-9fd84a870a9d/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -415,18 +415,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3821,2795,667,598"
+                                            "value": "#xywh=3821,2795,667,598"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ec685eca-daf4-4e03-94f9-a13ccb770473",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cce93892-9eae-423b-9e07-fa6895abe6a1",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ec685eca-daf4-4e03-94f9-a13ccb770473/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cce93892-9eae-423b-9e07-fa6895abe6a1/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -438,18 +438,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4877,2640,623,695"
+                                            "value": "#xywh=4877,2640,623,695"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/97624d4f-40a9-430d-8edb-53caab336b87",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d5b129b6-1e5f-415f-b0dd-51c798056888",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/97624d4f-40a9-430d-8edb-53caab336b87/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d5b129b6-1e5f-415f-b0dd-51c798056888/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -461,18 +461,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4840,319,633,677"
+                                            "value": "#xywh=4840,319,633,677"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ca7552e8-38e1-4fdb-b891-238aa055f6de",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/76769531-b3d1-4911-8282-6aaed2646818",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ca7552e8-38e1-4fdb-b891-238aa055f6de/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/76769531-b3d1-4911-8282-6aaed2646818/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -484,18 +484,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3657,2521,1092,958"
+                                            "value": "#xywh=3657,2521,1092,958"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/19219ea6-ff2b-4817-a4c4-7c176586e363",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e6b63505-1677-47d6-96f5-0cb725da6a51",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/19219ea6-ff2b-4817-a4c4-7c176586e363/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e6b63505-1677-47d6-96f5-0cb725da6a51/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -507,18 +507,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1094,342,553,689"
+                                            "value": "#xywh=1094,342,553,689"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/30ff91df-fd27-44e2-90b8-d45ee40a7ea2",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b88017a8-26c2-4145-ab29-e1d0aac536b2",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/30ff91df-fd27-44e2-90b8-d45ee40a7ea2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b88017a8-26c2-4145-ab29-e1d0aac536b2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -530,18 +530,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2080,623,442,450"
+                                            "value": "#xywh=2080,623,442,450"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/39a78381-2e20-4628-9b8c-daafac9d992c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/55ebe506-6846-4f10-9c28-8480504e2bf4",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/39a78381-2e20-4628-9b8c-daafac9d992c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/55ebe506-6846-4f10-9c28-8480504e2bf4/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -553,18 +553,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2637,658,384,422"
+                                            "value": "#xywh=2637,658,384,422"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/66baf34b-3ebc-47dc-b252-2149ce19d25d",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c3ebbd5a-e91f-4837-bbc9-1b9b008cf01a",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/66baf34b-3ebc-47dc-b252-2149ce19d25d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c3ebbd5a-e91f-4837-bbc9-1b9b008cf01a/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -576,7 +576,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2064,294,519,480"
+                                            "value": "#xywh=2064,294,519,480"
                                         }
                                     }
                                 }
@@ -619,11 +619,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b043742c-e18f-40bf-8a3c-666fd54de9ef",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0448556d-f609-4ff1-98b0-549a6c506ed6",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b043742c-e18f-40bf-8a3c-666fd54de9ef/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0448556d-f609-4ff1-98b0-549a6c506ed6/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -635,18 +635,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3854,291,791,721"
+                                            "value": "#xywh=3854,291,791,721"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9a80ec5e-2a3a-4e29-8522-4173023ce421",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/47bbdef7-d936-4682-9137-8c670e3215ad",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9a80ec5e-2a3a-4e29-8522-4173023ce421/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/47bbdef7-d936-4682-9137-8c670e3215ad/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -658,18 +658,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1019,2655,724,641"
+                                            "value": "#xywh=1019,2655,724,641"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/61377151-2ac8-4c85-81b2-6ca8eef85b73",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7ebe3839-1a63-44f2-8a67-61ce62e24862",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/61377151-2ac8-4c85-81b2-6ca8eef85b73/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7ebe3839-1a63-44f2-8a67-61ce62e24862/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -681,18 +681,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2077,322,581,647"
+                                            "value": "#xywh=2077,322,581,647"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d9a90c0e-31e2-49ad-9857-a8b80b1255cd",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/391b1e6e-9116-4e59-9054-2ef386e9176f",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d9a90c0e-31e2-49ad-9857-a8b80b1255cd/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/391b1e6e-9116-4e59-9054-2ef386e9176f/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -704,18 +704,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4917,371,737,652"
+                                            "value": "#xywh=4917,371,737,652"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fb81b3a3-bc7e-4ee3-b412-e91446bf27b3",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/47cc3013-c449-46c7-b2cb-099fec23e69b",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fb81b3a3-bc7e-4ee3-b412-e91446bf27b3/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/47cc3013-c449-46c7-b2cb-099fec23e69b/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -727,18 +727,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3926,2674,629,598"
+                                            "value": "#xywh=3926,2674,629,598"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/92b678b4-c7d7-4d79-871c-5017cd2521e8",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/99af3cf4-4a1c-4437-9045-4fbdfd89f3c7",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/92b678b4-c7d7-4d79-871c-5017cd2521e8/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/99af3cf4-4a1c-4437-9045-4fbdfd89f3c7/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -750,18 +750,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4948,2637,593,583"
+                                            "value": "#xywh=4948,2637,593,583"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c72aad5e-99eb-43b4-a2b3-296fe90ae42e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/448b4ce1-152a-426a-b23a-baebcb9fe95f",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c72aad5e-99eb-43b4-a2b3-296fe90ae42e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/448b4ce1-152a-426a-b23a-baebcb9fe95f/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -773,18 +773,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2088,2624,531,516"
+                                            "value": "#xywh=2088,2624,531,516"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bc9f65f4-cd43-4276-a349-c9166fde8402",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/46aba4fc-7ee6-484c-a2bd-6b32bc5defc5",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bc9f65f4-cd43-4276-a349-c9166fde8402/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/46aba4fc-7ee6-484c-a2bd-6b32bc5defc5/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -796,18 +796,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1162,241,527,645"
+                                            "value": "#xywh=1162,241,527,645"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8928f0e6-6577-42a1-89a8-2d32dd939c04",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/05e97a49-32a9-4b4e-9976-3a72181f117a",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8928f0e6-6577-42a1-89a8-2d32dd939c04/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/05e97a49-32a9-4b4e-9976-3a72181f117a/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -819,18 +819,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1179,517,481,560"
+                                            "value": "#xywh=1179,517,481,560"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/12ebd2a3-f18d-45b4-9022-58355d0ca704",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2a2d312b-aabc-4bb2-a25b-08abba945e78",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/12ebd2a3-f18d-45b4-9022-58355d0ca704/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2a2d312b-aabc-4bb2-a25b-08abba945e78/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -842,18 +842,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1781,2501,1160,948"
+                                            "value": "#xywh=1781,2501,1160,948"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9ee32199-6142-4dfd-b405-80906c831aea",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6f32208f-8e93-4aed-8c72-7160ea2e12dd",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9ee32199-6142-4dfd-b405-80906c831aea/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6f32208f-8e93-4aed-8c72-7160ea2e12dd/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -865,7 +865,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3765,2482,994,899"
+                                            "value": "#xywh=3765,2482,994,899"
                                         }
                                     }
                                 }
@@ -908,11 +908,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0c649c52-4a8c-4017-8198-b86900efdb4d",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/40777857-9512-475a-a6a2-6046d4c2bf77",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0c649c52-4a8c-4017-8198-b86900efdb4d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/40777857-9512-475a-a6a2-6046d4c2bf77/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -924,18 +924,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f65",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1015,254,581,736"
+                                            "value": "#xywh=1015,254,581,736"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/434909e7-6784-4400-866c-2fa85efcccbb",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/78f98548-ee97-4625-868f-a0b0d8c62d7f",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/434909e7-6784-4400-866c-2fa85efcccbb/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/78f98548-ee97-4625-868f-a0b0d8c62d7f/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -947,18 +947,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f65",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4919,3376,395,562"
+                                            "value": "#xywh=4919,3376,395,562"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9c2e0589-8f80-48c3-b09a-239d732e63d2",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d7337afa-11a5-46d5-baf7-20258e611e14",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9c2e0589-8f80-48c3-b09a-239d732e63d2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d7337afa-11a5-46d5-baf7-20258e611e14/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -970,7 +970,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f65",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=851,2714,614,539"
+                                            "value": "#xywh=851,2714,614,539"
                                         }
                                     }
                                 }
@@ -1013,11 +1013,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/59cf03ac-cfa7-4698-9932-7137ed9fd20a",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ab4f5680-7e7b-4aa0-9df2-607cc2262b15",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/59cf03ac-cfa7-4698-9932-7137ed9fd20a/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ab4f5680-7e7b-4aa0-9df2-607cc2262b15/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1029,18 +1029,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5103,3421,1333,1180"
+                                            "value": "#xywh=5103,3421,1333,1180"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/26b264b0-91b9-4262-a4d1-12fc69ae9cf4",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a65353a3-9e3f-477c-b358-7347201b6101",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/26b264b0-91b9-4262-a4d1-12fc69ae9cf4/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a65353a3-9e3f-477c-b358-7347201b6101/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1052,18 +1052,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4998,2718,518,775"
+                                            "value": "#xywh=4998,2718,518,775"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/65fa87c0-0d3b-4bb0-8503-a8ae02a8109c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/73bd79a9-5446-4cfd-bae2-871d82c08893",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/65fa87c0-0d3b-4bb0-8503-a8ae02a8109c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/73bd79a9-5446-4cfd-bae2-871d82c08893/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1075,18 +1075,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4128,281,478,606"
+                                            "value": "#xywh=4128,281,478,606"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dffddca0-9841-4eb0-a579-eec34c723e6b",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4893d1cd-9550-407f-9981-c3a73a7f3427",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dffddca0-9841-4eb0-a579-eec34c723e6b/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4893d1cd-9550-407f-9981-c3a73a7f3427/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1098,18 +1098,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5161,1804,327,403"
+                                            "value": "#xywh=5161,1804,327,403"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/eb8e0b54-c8a6-4699-8c24-237328569b98",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/80cc6efc-e817-45c6-a78f-70d0f07c283e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/eb8e0b54-c8a6-4699-8c24-237328569b98/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/80cc6efc-e817-45c6-a78f-70d0f07c283e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1121,18 +1121,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5132,417,372,465"
+                                            "value": "#xywh=5132,417,372,465"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/61a1d946-802a-4dc8-8fe8-9f8161044e9e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fbe2177b-8fd3-4981-8266-55fd8905159d",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/61a1d946-802a-4dc8-8fe8-9f8161044e9e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fbe2177b-8fd3-4981-8266-55fd8905159d/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1144,18 +1144,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5151,1633,336,355"
+                                            "value": "#xywh=5151,1633,336,355"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9143bf5b-e229-43ec-8bf5-2657ca5b65ee",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dc46bd4d-409c-454b-a99a-b7e480b5ba91",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9143bf5b-e229-43ec-8bf5-2657ca5b65ee/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dc46bd4d-409c-454b-a99a-b7e480b5ba91/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1167,7 +1167,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3696,2357,1203,1261"
+                                            "value": "#xywh=3696,2357,1203,1261"
                                         }
                                     }
                                 }
@@ -1210,11 +1210,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7635b66a-86da-4afb-9079-8252b36f247b",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8f0bb12b-5173-4070-aaa6-134f0212039e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7635b66a-86da-4afb-9079-8252b36f247b/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8f0bb12b-5173-4070-aaa6-134f0212039e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1226,18 +1226,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3904,372,919,952"
+                                            "value": "#xywh=3904,372,919,952"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2281e1c1-2f4a-44e0-a511-85dffa427d6f",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/59ccd114-b981-4912-be18-a7aeeaeec7a8",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2281e1c1-2f4a-44e0-a511-85dffa427d6f/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/59ccd114-b981-4912-be18-a7aeeaeec7a8/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1249,18 +1249,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3949,2750,779,911"
+                                            "value": "#xywh=3949,2750,779,911"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/31b61e69-a2c3-4c02-945d-ca53545546d4",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/62f39057-fdd4-4755-8c77-3af4dc183246",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/31b61e69-a2c3-4c02-945d-ca53545546d4/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/62f39057-fdd4-4755-8c77-3af4dc183246/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1272,18 +1272,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4979,1768,596,698"
+                                            "value": "#xywh=4979,1768,596,698"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/709d26fe-82f5-4b05-b3ad-2a9cc1ed7c54",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93131240-1c6c-4be7-8084-f0cf1c662560",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/709d26fe-82f5-4b05-b3ad-2a9cc1ed7c54/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93131240-1c6c-4be7-8084-f0cf1c662560/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1295,18 +1295,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4938,2877,685,771"
+                                            "value": "#xywh=4938,2877,685,771"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5fef6e3a-043d-4780-95f6-7beddae0fa0c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75ee7c01-c0c7-4458-9282-5994a68603c5",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5fef6e3a-043d-4780-95f6-7beddae0fa0c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75ee7c01-c0c7-4458-9282-5994a68603c5/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1318,18 +1318,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3983,1717,665,723"
+                                            "value": "#xywh=3983,1717,665,723"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0bb5801e-77a5-4443-a86b-7336aebda2bd",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7e518d73-9e88-413f-a37c-7237965c78ec",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0bb5801e-77a5-4443-a86b-7336aebda2bd/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7e518d73-9e88-413f-a37c-7237965c78ec/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1341,18 +1341,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5033,575,567,638"
+                                            "value": "#xywh=5033,575,567,638"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d20e5591-f606-44a8-8278-d50c275ea822",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da24aff4-bc52-41ad-966d-f5359652dd3e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d20e5591-f606-44a8-8278-d50c275ea822/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da24aff4-bc52-41ad-966d-f5359652dd3e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1364,18 +1364,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2062,2944,524,682"
+                                            "value": "#xywh=2062,2944,524,682"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9686e9be-b2c0-4ba1-9ce8-5cff2075b99d",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/757f11bc-af59-48b3-bb57-edbc5e822ad1",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9686e9be-b2c0-4ba1-9ce8-5cff2075b99d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/757f11bc-af59-48b3-bb57-edbc5e822ad1/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1387,18 +1387,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1019,1768,542,630"
+                                            "value": "#xywh=1019,1768,542,630"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8362e174-76c7-4897-8f8e-3b2d88725210",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/efced82d-4be3-4e50-897d-766fd9a4d670",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8362e174-76c7-4897-8f8e-3b2d88725210/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/efced82d-4be3-4e50-897d-766fd9a4d670/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1410,18 +1410,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1020,2851,504,708"
+                                            "value": "#xywh=1020,2851,504,708"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6d00925f-1fda-40f9-9fa2-1c128a3fbb6d",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/12656e68-eebd-4ea7-a86e-f78cfd4bcd7c",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6d00925f-1fda-40f9-9fa2-1c128a3fbb6d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/12656e68-eebd-4ea7-a86e-f78cfd4bcd7c/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1433,18 +1433,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2005,746,491,508"
+                                            "value": "#xywh=2005,746,491,508"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fc21a8fa-e543-494d-8797-948702ff2c9e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/afa324f5-c2b1-4f86-b121-078770c1b3be",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fc21a8fa-e543-494d-8797-948702ff2c9e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/afa324f5-c2b1-4f86-b121-078770c1b3be/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1456,18 +1456,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2029,1886,495,529"
+                                            "value": "#xywh=2029,1886,495,529"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9ef22c22-bed0-466a-b944-cdb745d653a2",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/87cb7278-14e5-44b2-837a-99b8dbf8c6c2",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9ef22c22-bed0-466a-b944-cdb745d653a2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/87cb7278-14e5-44b2-837a-99b8dbf8c6c2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1479,18 +1479,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1031,734,470,535"
+                                            "value": "#xywh=1031,734,470,535"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2fe8c153-7182-476d-81c0-df6444222f4c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ba7b8685-d308-46de-8df7-04d9895a0fe4",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2fe8c153-7182-476d-81c0-df6444222f4c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ba7b8685-d308-46de-8df7-04d9895a0fe4/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1502,7 +1502,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5137,541,437,403"
+                                            "value": "#xywh=5137,541,437,403"
                                         }
                                     }
                                 }
@@ -1545,11 +1545,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7403a0bc-c03d-4bd0-842b-136fa7a4f4c2",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d9e684db-6f6d-446c-80e9-8bf77b9ee889",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7403a0bc-c03d-4bd0-842b-136fa7a4f4c2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d9e684db-6f6d-446c-80e9-8bf77b9ee889/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1561,18 +1561,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=891,1732,727,807"
+                                            "value": "#xywh=891,1732,727,807"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0f80519d-9c3d-4bd9-b541-4b9bf598afce",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ab55e4f2-dff6-464f-b9de-81425f75837e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0f80519d-9c3d-4bd9-b541-4b9bf598afce/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ab55e4f2-dff6-464f-b9de-81425f75837e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1584,18 +1584,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=939,2808,660,844"
+                                            "value": "#xywh=939,2808,660,844"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/34d615b6-0e5b-4e0d-8ae0-2b159f180e10",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/09cc2007-a1b6-4fa9-a1b3-6ade42fb7080",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/34d615b6-0e5b-4e0d-8ae0-2b159f180e10/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/09cc2007-a1b6-4fa9-a1b3-6ade42fb7080/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1607,18 +1607,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3897,1660,743,853"
+                                            "value": "#xywh=3897,1660,743,853"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/538f9b8f-aa17-4e7f-b9fe-73f203e58584",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5d2c403d-0a86-4b86-b88f-d877745b9e9e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/538f9b8f-aa17-4e7f-b9fe-73f203e58584/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5d2c403d-0a86-4b86-b88f-d877745b9e9e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1630,18 +1630,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3922,2826,689,792"
+                                            "value": "#xywh=3922,2826,689,792"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ff35b221-1d00-4f74-bc87-d5a8fd6b16fb",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/88b041af-624a-4985-8d48-b7beb6d1303f",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ff35b221-1d00-4f74-bc87-d5a8fd6b16fb/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/88b041af-624a-4985-8d48-b7beb6d1303f/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1653,18 +1653,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1920,1684,658,860"
+                                            "value": "#xywh=1920,1684,658,860"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/937e1dd8-51a4-46b4-8275-25ae29a62332",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9b4ed61f-c87f-4800-a30e-2117b946bd79",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/937e1dd8-51a4-46b4-8275-25ae29a62332/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9b4ed61f-c87f-4800-a30e-2117b946bd79/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1676,18 +1676,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=890,574,659,769"
+                                            "value": "#xywh=890,574,659,769"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ecd44d61-c845-4b03-8df4-42bc3b1e03f2",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2fa92b05-0e44-4aa9-8f18-6ba44632f7fc",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ecd44d61-c845-4b03-8df4-42bc3b1e03f2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2fa92b05-0e44-4aa9-8f18-6ba44632f7fc/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1699,18 +1699,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4996,2933,590,698"
+                                            "value": "#xywh=4996,2933,590,698"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c7e64dcb-92f5-49d0-a0cd-c7ddfc232615",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8621e48b-cd84-4116-9805-afa162e4c856",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c7e64dcb-92f5-49d0-a0cd-c7ddfc232615/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8621e48b-cd84-4116-9805-afa162e4c856/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1722,18 +1722,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3753,466,1039,977"
+                                            "value": "#xywh=3753,466,1039,977"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a56d1acd-e4e9-4d62-8737-8d32f59fb213",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b6fc14f5-0348-4be2-8823-591662c588eb",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a56d1acd-e4e9-4d62-8737-8d32f59fb213/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b6fc14f5-0348-4be2-8823-591662c588eb/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1745,18 +1745,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1893,553,687,853"
+                                            "value": "#xywh=1893,553,687,853"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67ee3cc6-991f-482c-bd66-9f02f13da6ce",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/57dde3c5-9884-4972-b623-cae248f880c3",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67ee3cc6-991f-482c-bd66-9f02f13da6ce/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/57dde3c5-9884-4972-b623-cae248f880c3/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1768,18 +1768,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4997,685,567,606"
+                                            "value": "#xywh=4997,685,567,606"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/811cd561-75d5-4a74-9c34-b50ae2fce125",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3196d0c-844d-4bf6-9203-0c227297be7a",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/811cd561-75d5-4a74-9c34-b50ae2fce125/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3196d0c-844d-4bf6-9203-0c227297be7a/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1791,18 +1791,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4953,1785,672,675"
+                                            "value": "#xywh=4953,1785,672,675"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/895b1d17-cbf3-493c-8437-eae826fdb63b",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dd1ad63c-b7ce-4ebe-b6b8-01cea0327345",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/895b1d17-cbf3-493c-8437-eae826fdb63b/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dd1ad63c-b7ce-4ebe-b6b8-01cea0327345/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1814,18 +1814,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1993,2973,576,763"
+                                            "value": "#xywh=1993,2973,576,763"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/51ac300c-6248-4e56-adac-175ee43b8619",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d6c11263-c031-453d-aef4-23a940c9ac0e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/51ac300c-6248-4e56-adac-175ee43b8619/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d6c11263-c031-453d-aef4-23a940c9ac0e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1837,18 +1837,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3970,635,644,664"
+                                            "value": "#xywh=3970,635,644,664"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8563f52c-cd2f-4ad8-8923-27f7e8d6645e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8a3090e6-e43b-4d17-8c6a-9cce0536c554",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8563f52c-cd2f-4ad8-8923-27f7e8d6645e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8a3090e6-e43b-4d17-8c6a-9cce0536c554/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1860,7 +1860,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1870,2826,979,1002"
+                                            "value": "#xywh=1870,2826,979,1002"
                                         }
                                     }
                                 }
@@ -1903,11 +1903,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0fcea473-5a80-4cbc-9aeb-2e4e7323109f",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c122559a-e7e7-473c-b11f-352a69171291",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0fcea473-5a80-4cbc-9aeb-2e4e7323109f/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c122559a-e7e7-473c-b11f-352a69171291/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1919,18 +1919,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1891,496,716,813"
+                                            "value": "#xywh=1891,496,716,813"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d4b48b36-e3b2-48f4-88a7-2f8c3dc8ce7a",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/db7ea911-0d79-4e38-a806-35e85d35e760",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d4b48b36-e3b2-48f4-88a7-2f8c3dc8ce7a/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/db7ea911-0d79-4e38-a806-35e85d35e760/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1942,18 +1942,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3782,2474,964,1008"
+                                            "value": "#xywh=3782,2474,964,1008"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ecc39c8b-f8c3-4eb4-abce-979da0279b76",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c0924e9e-1db6-4aa8-9b0e-9572cf9f4530",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ecc39c8b-f8c3-4eb4-abce-979da0279b76/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c0924e9e-1db6-4aa8-9b0e-9572cf9f4530/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1965,18 +1965,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1950,2738,769,881"
+                                            "value": "#xywh=1950,2738,769,881"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3374c234-bd12-4748-9b72-b776cf50a31c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dc79048b-0291-443d-b020-6a837cf84d7e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3374c234-bd12-4748-9b72-b776cf50a31c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dc79048b-0291-443d-b020-6a837cf84d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1988,18 +1988,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=975,1654,655,779"
+                                            "value": "#xywh=975,1654,655,779"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d3ee6861-28bd-4e95-98e8-898d28b7223a",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7cbe2ecb-af64-4c4c-af6e-ffd5f528d7f6",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d3ee6861-28bd-4e95-98e8-898d28b7223a/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7cbe2ecb-af64-4c4c-af6e-ffd5f528d7f6/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2011,18 +2011,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=906,531,757,811"
+                                            "value": "#xywh=906,531,757,811"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0bcee074-ca74-48ab-9f23-253b59f42451",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/174f6e15-c9ac-4128-9199-68f9aa9967fc",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0bcee074-ca74-48ab-9f23-253b59f42451/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/174f6e15-c9ac-4128-9199-68f9aa9967fc/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2034,18 +2034,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3906,279,746,749"
+                                            "value": "#xywh=3906,279,746,749"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c3e769c1-4419-4d9c-8e01-cfc6fd157677",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/66be161a-e85d-4ebb-a9fa-a5317864fdc9",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c3e769c1-4419-4d9c-8e01-cfc6fd157677/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/66be161a-e85d-4ebb-a9fa-a5317864fdc9/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2057,18 +2057,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=988,2903,613,671"
+                                            "value": "#xywh=988,2903,613,671"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ff80a012-e1f2-4dfb-bdf6-f27e10eeac06",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c4b05086-1186-4b0b-88c9-5e775e8f0a60",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ff80a012-e1f2-4dfb-bdf6-f27e10eeac06/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c4b05086-1186-4b0b-88c9-5e775e8f0a60/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2080,18 +2080,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1938,1696,636,711"
+                                            "value": "#xywh=1938,1696,636,711"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cd5566c9-bd38-42a7-9a53-003a190140d6",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d6063c3a-c1d3-464b-bec2-aefd2f630661",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cd5566c9-bd38-42a7-9a53-003a190140d6/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d6063c3a-c1d3-464b-bec2-aefd2f630661/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2103,18 +2103,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5010,543,551,559"
+                                            "value": "#xywh=5010,543,551,559"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f1fac81f-bd6a-4ce8-8518-9f1070859046",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7c091de1-2d43-4644-99f6-027bc056ed8f",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f1fac81f-bd6a-4ce8-8518-9f1070859046/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7c091de1-2d43-4644-99f6-027bc056ed8f/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2126,18 +2126,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4964,2621,578,683"
+                                            "value": "#xywh=4964,2621,578,683"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4ad277d7-456a-4f7c-b6db-7b9a0fc711b5",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1e2361da-a97b-43ee-a7ce-249170285c4d",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4ad277d7-456a-4f7c-b6db-7b9a0fc711b5/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1e2361da-a97b-43ee-a7ce-249170285c4d/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2149,7 +2149,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4779,2516,958,946"
+                                            "value": "#xywh=4779,2516,958,946"
                                         }
                                     }
                                 }
@@ -2192,11 +2192,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/590e9b75-86bc-4380-9a0f-f3a5bf3db495",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8f9d44f9-e8b1-4749-9114-3a5071fc9d63",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/590e9b75-86bc-4380-9a0f-f3a5bf3db495/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8f9d44f9-e8b1-4749-9114-3a5071fc9d63/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2208,18 +2208,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4414,3727,410,373"
+                                            "value": "#xywh=4414,3727,410,373"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/157f321c-fe8c-4174-b031-ff29a2bbc3ab",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1370117a-5530-432b-a841-34676d29f658",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/157f321c-fe8c-4174-b031-ff29a2bbc3ab/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1370117a-5530-432b-a841-34676d29f658/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2231,18 +2231,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3755,228,1004,934"
+                                            "value": "#xywh=3755,228,1004,934"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1ecd7cdc-3751-406b-bae9-49a7840809f3",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/877388c6-dd13-4b0a-afe3-42cd19cc244e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1ecd7cdc-3751-406b-bae9-49a7840809f3/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/877388c6-dd13-4b0a-afe3-42cd19cc244e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2254,18 +2254,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=997,2606,672,751"
+                                            "value": "#xywh=997,2606,672,751"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c092d29e-c0b8-4787-90c7-673202a0e96a",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8cd00a93-49ce-494c-9696-bcadc61a970c",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c092d29e-c0b8-4787-90c7-673202a0e96a/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8cd00a93-49ce-494c-9696-bcadc61a970c/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2277,18 +2277,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3942,2625,622,676"
+                                            "value": "#xywh=3942,2625,622,676"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3d80b8bb-c73c-4688-af96-6e67c4e4e7e7",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fc8a1355-29a0-4e2e-8d31-cfe26e17bd5b",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3d80b8bb-c73c-4688-af96-6e67c4e4e7e7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fc8a1355-29a0-4e2e-8d31-cfe26e17bd5b/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2300,18 +2300,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1014,313,659,699"
+                                            "value": "#xywh=1014,313,659,699"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9dc92efa-96fe-4ad5-92d9-0d36c2d2d06d",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fc2cacf9-94cf-4631-9eaf-2dbbdf0a1de1",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9dc92efa-96fe-4ad5-92d9-0d36c2d2d06d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fc2cacf9-94cf-4631-9eaf-2dbbdf0a1de1/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2323,18 +2323,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1962,307,691,751"
+                                            "value": "#xywh=1962,307,691,751"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/32cb2df4-c90b-41a6-a07f-d55f968f9748",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/16f042d1-225f-45ac-8745-f6bd174ce770",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/32cb2df4-c90b-41a6-a07f-d55f968f9748/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/16f042d1-225f-45ac-8745-f6bd174ce770/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2346,18 +2346,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4911,324,730,704"
+                                            "value": "#xywh=4911,324,730,704"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/899fccd0-5b13-4647-88f9-75b17d3f1618",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a688a184-fad2-42aa-86d0-ecdca5bc3a60",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/899fccd0-5b13-4647-88f9-75b17d3f1618/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a688a184-fad2-42aa-86d0-ecdca5bc3a60/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2369,18 +2369,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2080,2667,515,623"
+                                            "value": "#xywh=2080,2667,515,623"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3991edfe-4944-497d-b5d4-9b6ba8df1b8c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2c6cddfc-2334-4e68-908b-e4031d6126cd",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3991edfe-4944-497d-b5d4-9b6ba8df1b8c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2c6cddfc-2334-4e68-908b-e4031d6126cd/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2392,18 +2392,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4926,2593,667,685"
+                                            "value": "#xywh=4926,2593,667,685"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e6e57e9-8363-4261-93e8-8a0e6c723716",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d80b6e77-ed94-4713-b82b-3525f01d9274",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e6e57e9-8363-4261-93e8-8a0e6c723716/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d80b6e77-ed94-4713-b82b-3525f01d9274/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2415,7 +2415,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4767,2475,1046,982"
+                                            "value": "#xywh=4767,2475,1046,982"
                                         }
                                     }
                                 }
@@ -2458,11 +2458,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bc244b0c-9bf7-4b8d-920c-aeba047a9ba4",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8ec7fff3-731d-4f9e-8862-c0a9622cf083",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bc244b0c-9bf7-4b8d-920c-aeba047a9ba4/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8ec7fff3-731d-4f9e-8862-c0a9622cf083/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2474,18 +2474,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3898,299,593,651"
+                                            "value": "#xywh=3898,299,593,651"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/65e980c3-7bd4-4bd1-a426-2e521dacb443",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7daf38d7-9df3-4455-aeac-517b7dfa8cd8",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/65e980c3-7bd4-4bd1-a426-2e521dacb443/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7daf38d7-9df3-4455-aeac-517b7dfa8cd8/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2497,18 +2497,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4974,2667,509,548"
+                                            "value": "#xywh=4974,2667,509,548"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/84acb4eb-fc7b-4e7d-83b5-835962333c4d",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e6714ca-5375-4597-a616-0aca083b8915",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/84acb4eb-fc7b-4e7d-83b5-835962333c4d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e6714ca-5375-4597-a616-0aca083b8915/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2520,18 +2520,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4908,337,590,583"
+                                            "value": "#xywh=4908,337,590,583"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8e7bf2c-6f84-4a33-82e7-ffe88ff6702e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ba67b06d-c72e-47d7-a26f-35ffc65a714e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8e7bf2c-6f84-4a33-82e7-ffe88ff6702e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ba67b06d-c72e-47d7-a26f-35ffc65a714e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2543,18 +2543,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2108,2763,476,508"
+                                            "value": "#xywh=2108,2763,476,508"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/91b1c780-ce16-4018-9c55-3c8fb28f3f7b",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/400fbf32-dc42-48ed-823c-1fd3118be628",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/91b1c780-ce16-4018-9c55-3c8fb28f3f7b/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/400fbf32-dc42-48ed-823c-1fd3118be628/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2566,18 +2566,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3690,215,981,930"
+                                            "value": "#xywh=3690,215,981,930"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/865c2d64-730e-44be-9abb-0fdf9de5a44c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e964f86c-8cae-4e83-98cd-406d4c8009a3",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/865c2d64-730e-44be-9abb-0fdf9de5a44c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e964f86c-8cae-4e83-98cd-406d4c8009a3/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2589,18 +2589,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1050,374,541,617"
+                                            "value": "#xywh=1050,374,541,617"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/593b82b0-37a9-4f8d-a36e-7dcb7795d16a",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5913c364-0812-493e-ae72-5b1aa2eb4e84",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/593b82b0-37a9-4f8d-a36e-7dcb7795d16a/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5913c364-0812-493e-ae72-5b1aa2eb4e84/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2612,7 +2612,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4033,2617,418,505"
+                                            "value": "#xywh=4033,2617,418,505"
                                         }
                                     }
                                 }
@@ -2655,11 +2655,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/32fb39fd-db08-48ab-8b0b-a23073ead0e3",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/34b84bc9-11da-4799-9690-f9ff71e4dd55",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/32fb39fd-db08-48ab-8b0b-a23073ead0e3/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/34b84bc9-11da-4799-9690-f9ff71e4dd55/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2671,18 +2671,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3999,2898,482,487"
+                                            "value": "#xywh=3999,2898,482,487"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1705ccbe-b2b1-4960-bb5d-824cd26c15a6",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d0ebdaaa-1b6c-46e2-b1f1-ce9812c846e2",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1705ccbe-b2b1-4960-bb5d-824cd26c15a6/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d0ebdaaa-1b6c-46e2-b1f1-ce9812c846e2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2694,18 +2694,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4962,389,586,644"
+                                            "value": "#xywh=4962,389,586,644"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/912f79ba-4d87-490c-a8aa-82216e95fcd0",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e2eff2ba-0f99-4d5a-a686-34ce1c57687b",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/912f79ba-4d87-490c-a8aa-82216e95fcd0/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e2eff2ba-0f99-4d5a-a686-34ce1c57687b/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2717,18 +2717,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3670,236,1060,1031"
+                                            "value": "#xywh=3670,236,1060,1031"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cd722374-743b-4dba-a63d-ecb2c5a617e5",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dbce7cfe-c303-47aa-b661-90d5c1172d23",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cd722374-743b-4dba-a63d-ecb2c5a617e5/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dbce7cfe-c303-47aa-b661-90d5c1172d23/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2740,18 +2740,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2189,339,451,702"
+                                            "value": "#xywh=2189,339,451,702"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/47770cb4-a415-4dba-82b1-e27418aa8fb0",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1a10dd69-290d-4584-9844-703b37c5874e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/47770cb4-a415-4dba-82b1-e27418aa8fb0/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1a10dd69-290d-4584-9844-703b37c5874e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2763,18 +2763,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1163,2656,499,601"
+                                            "value": "#xywh=1163,2656,499,601"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1c649db5-9d9c-45b5-86d0-509f04f7d63d",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/42253044-9c78-4909-83a8-695c5e63a1c6",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1c649db5-9d9c-45b5-86d0-509f04f7d63d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/42253044-9c78-4909-83a8-695c5e63a1c6/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2786,18 +2786,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2124,2604,469,588"
+                                            "value": "#xywh=2124,2604,469,588"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bc731212-5764-4ad9-ae3e-e3cf2863b1dd",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f2be214b-e3a6-41f6-8bed-48a60e53a879",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bc731212-5764-4ad9-ae3e-e3cf2863b1dd/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f2be214b-e3a6-41f6-8bed-48a60e53a879/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2809,18 +2809,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2575,404,383,490"
+                                            "value": "#xywh=2575,404,383,490"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2e35f645-28b7-4dba-8eb6-850b9e66aa8a",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6954219-82e1-41dc-8e5f-277e0108b2e7",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2e35f645-28b7-4dba-8eb6-850b9e66aa8a/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6954219-82e1-41dc-8e5f-277e0108b2e7/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2832,18 +2832,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2165,2871,454,466"
+                                            "value": "#xywh=2165,2871,454,466"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dc11f486-e478-40ea-ad35-ea0fac533c80",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1ae9fb4b-84c7-4079-a3e4-f2459a9f4f5a",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dc11f486-e478-40ea-ad35-ea0fac533c80/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1ae9fb4b-84c7-4079-a3e4-f2459a9f4f5a/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2855,18 +2855,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3980,449,576,503"
+                                            "value": "#xywh=3980,449,576,503"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5a57ff02-8ad5-4cc8-9d2f-48ced0529196",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1a6c2931-4f65-4629-b6c9-172bfbef189b",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5a57ff02-8ad5-4cc8-9d2f-48ced0529196/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1a6c2931-4f65-4629-b6c9-172bfbef189b/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2878,7 +2878,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5119,2769,340,411"
+                                            "value": "#xywh=5119,2769,340,411"
                                         }
                                     }
                                 }
@@ -2921,11 +2921,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6020a232-40e0-4368-9a80-d7af36102caf",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/efb46997-b618-4d01-8149-719709fc4c71",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6020a232-40e0-4368-9a80-d7af36102caf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/efb46997-b618-4d01-8149-719709fc4c71/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2937,18 +2937,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3709,255,1038,967"
+                                            "value": "#xywh=3709,255,1038,967"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/673a787f-8fa1-4f32-a1ad-cc54fa99d6e1",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/99cff57d-d05c-4b43-8774-ebbd54e97a93",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/673a787f-8fa1-4f32-a1ad-cc54fa99d6e1/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/99cff57d-d05c-4b43-8774-ebbd54e97a93/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2960,18 +2960,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2154,446,524,579"
+                                            "value": "#xywh=2154,446,524,579"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/278e3373-dcc6-4b64-8f37-c646f6f9e7ca",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2cda919b-d948-46c3-9b3a-5d8eb7d6553d",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/278e3373-dcc6-4b64-8f37-c646f6f9e7ca/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2cda919b-d948-46c3-9b3a-5d8eb7d6553d/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2983,18 +2983,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1109,2681,620,579"
+                                            "value": "#xywh=1109,2681,620,579"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c6e8adff-ecb9-4008-8b52-088c884f3bff",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f02e4737-baf5-4860-b906-b82c71f46124",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c6e8adff-ecb9-4008-8b52-088c884f3bff/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f02e4737-baf5-4860-b906-b82c71f46124/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3006,18 +3006,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1204,334,429,464"
+                                            "value": "#xywh=1204,334,429,464"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3ca5663d-d405-444e-9982-3b80482f7b84",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7bd7c6b4-61fc-4a84-a73c-546ea1f46458",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3ca5663d-d405-444e-9982-3b80482f7b84/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7bd7c6b4-61fc-4a84-a73c-546ea1f46458/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3029,18 +3029,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3962,3450,538,549"
+                                            "value": "#xywh=3962,3450,538,549"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4d6ab85e-2452-47e6-a7d4-c5a6f1073a21",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/68bd40c8-d7c6-4255-8ee2-de80524000e2",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4d6ab85e-2452-47e6-a7d4-c5a6f1073a21/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/68bd40c8-d7c6-4255-8ee2-de80524000e2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3052,18 +3052,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5122,338,549,720"
+                                            "value": "#xywh=5122,338,549,720"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2832f4a0-41c9-4fa8-840c-bac752d3b863",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d4d657d1-1dee-45ff-869b-8dd72af7115c",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2832f4a0-41c9-4fa8-840c-bac752d3b863/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d4d657d1-1dee-45ff-869b-8dd72af7115c/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3075,18 +3075,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1390,306,409,531"
+                                            "value": "#xywh=1390,306,409,531"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f9914ad8-50c7-4324-8ea7-6d2d42e0a57c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9c587cae-fb2b-4eaa-aa90-0707345cc8b9",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f9914ad8-50c7-4324-8ea7-6d2d42e0a57c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9c587cae-fb2b-4eaa-aa90-0707345cc8b9/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3098,18 +3098,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2158,2844,449,521"
+                                            "value": "#xywh=2158,2844,449,521"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cd4816f9-305d-4cf5-9cd0-bc00b9882406",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e60e0872-c3a7-47bf-85e8-1d0c950a01be",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cd4816f9-305d-4cf5-9cd0-bc00b9882406/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e60e0872-c3a7-47bf-85e8-1d0c950a01be/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3121,18 +3121,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5432,412,442,538"
+                                            "value": "#xywh=5432,412,442,538"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/af87d649-5429-4441-89bb-ea3c16e4e974",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1e3e1b01-0b60-4510-ae0b-fa2f380df3f5",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/af87d649-5429-4441-89bb-ea3c16e4e974/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1e3e1b01-0b60-4510-ae0b-fa2f380df3f5/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3144,18 +3144,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1196,616,414,419"
+                                            "value": "#xywh=1196,616,414,419"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f71c1a5-ff19-484b-b37d-ab45fa2731aa",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d1084f2b-a3d5-4a09-af18-85eb5527ac53",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f71c1a5-ff19-484b-b37d-ab45fa2731aa/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d1084f2b-a3d5-4a09-af18-85eb5527ac53/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3167,18 +3167,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5087,1865,381,540"
+                                            "value": "#xywh=5087,1865,381,540"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8aeacf2f-6f83-4fef-a4ad-4761d6f4d2cb",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/35626756-dfed-4765-8d63-7db23f4d6902",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8aeacf2f-6f83-4fef-a4ad-4761d6f4d2cb/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/35626756-dfed-4765-8d63-7db23f4d6902/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3190,18 +3190,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1433,646,335,392"
+                                            "value": "#xywh=1433,646,335,392"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/01e2e810-4855-4b3b-9da9-79420a18cfdb",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a81c94b9-a792-4ca3-afa9-56957ab5b4c0",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/01e2e810-4855-4b3b-9da9-79420a18cfdb/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a81c94b9-a792-4ca3-afa9-56957ab5b4c0/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3213,18 +3213,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=3682,3127,1093,1000"
+                                            "value": "#xywh=3682,3127,1093,1000"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d8dc4ce4-21f9-421a-9b30-86a82168660c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/26c52ca7-b2e5-41ee-b55f-2cc70157632a",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d8dc4ce4-21f9-421a-9b30-86a82168660c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/26c52ca7-b2e5-41ee-b55f-2cc70157632a/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3236,7 +3236,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=5026,3699,391,396"
+                                            "value": "#xywh=5026,3699,391,396"
                                         }
                                     }
                                 }
@@ -3279,11 +3279,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b7cf75c-36b7-4f38-9644-37b4425809fd",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/506e4f8b-a28e-47a7-87ca-85b02cd98e06",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b7cf75c-36b7-4f38-9644-37b4425809fd/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/506e4f8b-a28e-47a7-87ca-85b02cd98e06/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3295,18 +3295,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1145,696,428,376"
+                                            "value": "#xywh=1145,696,428,376"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/55ad8148-f16a-47a9-b6ac-00a9bc2809b9",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b4b2b291-51d7-4dc0-aeb5-8342bdbeca43",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/55ad8148-f16a-47a9-b6ac-00a9bc2809b9/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b4b2b291-51d7-4dc0-aeb5-8342bdbeca43/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3318,18 +3318,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2534,351,367,366"
+                                            "value": "#xywh=2534,351,367,366"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3ed225b1-48f0-46d4-9c17-4ff4e0753f1b",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3326dd0c-395d-4665-ab26-4823c79692f2",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3ed225b1-48f0-46d4-9c17-4ff4e0753f1b/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3326dd0c-395d-4665-ab26-4823c79692f2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3341,18 +3341,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2180,392,374,435"
+                                            "value": "#xywh=2180,392,374,435"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d9ed32e-c81e-4a91-8e5e-ddf392b189bf",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c99ee8d9-28a3-4fae-a66a-c3c379c5e5e4",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d9ed32e-c81e-4a91-8e5e-ddf392b189bf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c99ee8d9-28a3-4fae-a66a-c3c379c5e5e4/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3364,18 +3364,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1093,2643,510,533"
+                                            "value": "#xywh=1093,2643,510,533"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67b2a535-5f45-466f-8b94-e77587eb3bd5",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a2c7b89d-9c7b-4337-96ff-b185bcfbc6aa",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67b2a535-5f45-466f-8b94-e77587eb3bd5/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a2c7b89d-9c7b-4337-96ff-b185bcfbc6aa/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3387,7 +3387,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2168,2720,426,498"
+                                            "value": "#xywh=2168,2720,426,498"
                                         }
                                     }
                                 }
@@ -3570,11 +3570,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b9cb3ba1-2e74-40ca-927d-7193884116ba",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/578e1e3f-97d7-4da3-8f2e-50cba73c7d37",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b9cb3ba1-2e74-40ca-927d-7193884116ba/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/578e1e3f-97d7-4da3-8f2e-50cba73c7d37/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3586,7 +3586,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f79",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=4583,2440,360,324"
+                                            "value": "#xywh=4583,2440,360,324"
                                         }
                                     }
                                 }
@@ -3629,11 +3629,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8169b97f-f415-422e-a5cc-5546ca7cbebd",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9a53e5dc-bf13-4449-b498-a9ac056fa9cf",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8169b97f-f415-422e-a5cc-5546ca7cbebd/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9a53e5dc-bf13-4449-b498-a9ac056fa9cf/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3645,18 +3645,18 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f80",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=2082,2026,302,300"
+                                            "value": "#xywh=2082,2026,302,300"
                                         }
                                     }
                                 }
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/43a618e8-2164-49e7-8d4a-bb1036109318",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1bf24ca1-7a7d-4076-ad90-82835d4119e0",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/43a618e8-2164-49e7-8d4a-bb1036109318/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1bf24ca1-7a7d-4076-ad90-82835d4119e0/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3668,7 +3668,7 @@
                                         "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f80",
                                         "selector": {
                                             "type": "FragmentSelector",
-                                            "value": "xywh=#xywh=1730,2428,385,341"
+                                            "value": "#xywh=1730,2428,385,341"
                                         }
                                     }
                                 }
