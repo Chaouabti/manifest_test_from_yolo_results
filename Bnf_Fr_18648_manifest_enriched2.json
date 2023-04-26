@@ -94,11 +94,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1742d3f0-1fad-4e2d-911d-9bc5b5d4a3a2",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/aa03c4ce-3309-466a-9a98-c21c7adae612",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1742d3f0-1fad-4e2d-911d-9bc5b5d4a3a2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/aa03c4ce-3309-466a-9a98-c21c7adae612/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -107,7 +107,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_59.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f59",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5182,2372,509,366"
@@ -153,11 +153,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2bcef5b2-2b53-4bce-bba3-1d3c50c0ac16",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b0a8c70c-1852-4542-b3a3-3e31fc34d00b",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2bcef5b2-2b53-4bce-bba3-1d3c50c0ac16/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b0a8c70c-1852-4542-b3a3-3e31fc34d00b/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -166,7 +166,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_60.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f60",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5164,770,554,320"
@@ -212,11 +212,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6b2372a8-b4ca-4224-8e8a-175400105a98",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1411e7a9-39eb-47cc-abee-3fa6472e3f1b",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6b2372a8-b4ca-4224-8e8a-175400105a98/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1411e7a9-39eb-47cc-abee-3fa6472e3f1b/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -225,7 +225,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_61.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f61",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2122,2694,445,374"
@@ -271,11 +271,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ec0c393b-ba45-4ab4-abee-957115d588c4",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d037bb39-b148-4b1f-9dd0-79a0a3ceaa09",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ec0c393b-ba45-4ab4-abee-957115d588c4/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d037bb39-b148-4b1f-9dd0-79a0a3ceaa09/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -284,7 +284,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_62.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3967,2869,398,505"
@@ -294,11 +294,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f4886f14-133e-46ee-9512-77ac3c618030",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/811699f2-458d-43d0-a1c0-0eb2395a3eda",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f4886f14-133e-46ee-9512-77ac3c618030/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/811699f2-458d-43d0-a1c0-0eb2395a3eda/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -307,7 +307,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_62.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5057,569,376,538"
@@ -317,11 +317,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/834ba6ad-ef29-416d-82ad-957619b5601b",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a4b2b57a-184b-4f5d-985b-1e6419c8dc2f",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/834ba6ad-ef29-416d-82ad-957619b5601b/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a4b2b57a-184b-4f5d-985b-1e6419c8dc2f/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -330,7 +330,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_62.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4043,591,397,573"
@@ -340,11 +340,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5c72704e-8272-4dd3-964c-76a9520b3922",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bf2741d0-353a-49ec-8309-7d889e94191a",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5c72704e-8272-4dd3-964c-76a9520b3922/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bf2741d0-353a-49ec-8309-7d889e94191a/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -353,7 +353,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_62.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f62",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5083,399,378,505"
@@ -399,11 +399,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6cc00c08-7864-4298-8f87-3a3946671063",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7ae6a538-300a-4c6d-a07f-aba6e64004df",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6cc00c08-7864-4298-8f87-3a3946671063/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7ae6a538-300a-4c6d-a07f-aba6e64004df/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -412,7 +412,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_63.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3821,2795,667,598"
@@ -422,11 +422,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3ef8fce7-0929-4bac-af35-e5edc57f03fe",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ec685eca-daf4-4e03-94f9-a13ccb770473",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3ef8fce7-0929-4bac-af35-e5edc57f03fe/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ec685eca-daf4-4e03-94f9-a13ccb770473/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -435,7 +435,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_63.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4877,2640,623,695"
@@ -445,11 +445,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/029cc597-e5c4-41df-b4a1-a375ad0e9036",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/97624d4f-40a9-430d-8edb-53caab336b87",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/029cc597-e5c4-41df-b4a1-a375ad0e9036/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/97624d4f-40a9-430d-8edb-53caab336b87/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -458,7 +458,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_63.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4840,319,633,677"
@@ -468,11 +468,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fa4e52aa-b77b-46b0-b026-dee2fce6d0dc",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ca7552e8-38e1-4fdb-b891-238aa055f6de",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fa4e52aa-b77b-46b0-b026-dee2fce6d0dc/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ca7552e8-38e1-4fdb-b891-238aa055f6de/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -481,7 +481,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_63.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3657,2521,1092,958"
@@ -491,11 +491,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e02ff667-f346-4d3c-994a-9132672f13fe",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/19219ea6-ff2b-4817-a4c4-7c176586e363",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e02ff667-f346-4d3c-994a-9132672f13fe/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/19219ea6-ff2b-4817-a4c4-7c176586e363/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -504,7 +504,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_63.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1094,342,553,689"
@@ -514,11 +514,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/74787d7b-b59b-49b9-a2fd-5af7119c867a",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/30ff91df-fd27-44e2-90b8-d45ee40a7ea2",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/74787d7b-b59b-49b9-a2fd-5af7119c867a/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/30ff91df-fd27-44e2-90b8-d45ee40a7ea2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -527,7 +527,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_63.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2080,623,442,450"
@@ -537,11 +537,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d7e8c40c-2767-4d7a-bef0-e5a4e69e1ffb",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/39a78381-2e20-4628-9b8c-daafac9d992c",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d7e8c40c-2767-4d7a-bef0-e5a4e69e1ffb/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/39a78381-2e20-4628-9b8c-daafac9d992c/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -550,7 +550,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_63.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2637,658,384,422"
@@ -560,11 +560,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b39c6e5a-d862-427f-9b27-2faa100616a4",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/66baf34b-3ebc-47dc-b252-2149ce19d25d",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b39c6e5a-d862-427f-9b27-2faa100616a4/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/66baf34b-3ebc-47dc-b252-2149ce19d25d/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -573,7 +573,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_63.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f63",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2064,294,519,480"
@@ -619,11 +619,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d18af38d-3b44-4591-816d-6affb9f63886",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b043742c-e18f-40bf-8a3c-666fd54de9ef",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d18af38d-3b44-4591-816d-6affb9f63886/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b043742c-e18f-40bf-8a3c-666fd54de9ef/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -632,7 +632,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_64.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3854,291,791,721"
@@ -642,11 +642,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/30fa77da-edd3-4665-9b50-86c87853bbd3",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9a80ec5e-2a3a-4e29-8522-4173023ce421",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/30fa77da-edd3-4665-9b50-86c87853bbd3/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9a80ec5e-2a3a-4e29-8522-4173023ce421/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -655,7 +655,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_64.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1019,2655,724,641"
@@ -665,11 +665,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8c76aecb-41b9-48f1-8072-0d28b3301e43",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/61377151-2ac8-4c85-81b2-6ca8eef85b73",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8c76aecb-41b9-48f1-8072-0d28b3301e43/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/61377151-2ac8-4c85-81b2-6ca8eef85b73/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -678,7 +678,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_64.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2077,322,581,647"
@@ -688,11 +688,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e42eba71-d928-4261-a2e1-fca28fb58b6a",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d9a90c0e-31e2-49ad-9857-a8b80b1255cd",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e42eba71-d928-4261-a2e1-fca28fb58b6a/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d9a90c0e-31e2-49ad-9857-a8b80b1255cd/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -701,7 +701,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_64.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4917,371,737,652"
@@ -711,11 +711,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/257f2aaf-fb5f-48ef-bd28-9049df4e1d1b",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fb81b3a3-bc7e-4ee3-b412-e91446bf27b3",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/257f2aaf-fb5f-48ef-bd28-9049df4e1d1b/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fb81b3a3-bc7e-4ee3-b412-e91446bf27b3/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -724,7 +724,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_64.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3926,2674,629,598"
@@ -734,11 +734,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b24be37a-0f94-4e78-a2eb-4798844b0ccc",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/92b678b4-c7d7-4d79-871c-5017cd2521e8",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b24be37a-0f94-4e78-a2eb-4798844b0ccc/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/92b678b4-c7d7-4d79-871c-5017cd2521e8/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -747,7 +747,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_64.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4948,2637,593,583"
@@ -757,11 +757,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2826d594-f3a0-4f57-99c6-8cb4e802af07",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c72aad5e-99eb-43b4-a2b3-296fe90ae42e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2826d594-f3a0-4f57-99c6-8cb4e802af07/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c72aad5e-99eb-43b4-a2b3-296fe90ae42e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -770,7 +770,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_64.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2088,2624,531,516"
@@ -780,11 +780,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6fa8508-9765-47f4-8fbe-2b130f1b41ea",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bc9f65f4-cd43-4276-a349-c9166fde8402",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6fa8508-9765-47f4-8fbe-2b130f1b41ea/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bc9f65f4-cd43-4276-a349-c9166fde8402/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -793,7 +793,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_64.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1162,241,527,645"
@@ -803,11 +803,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/15d7083c-ca11-4ad4-9580-efbaca2d6882",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8928f0e6-6577-42a1-89a8-2d32dd939c04",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/15d7083c-ca11-4ad4-9580-efbaca2d6882/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8928f0e6-6577-42a1-89a8-2d32dd939c04/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -816,7 +816,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_64.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1179,517,481,560"
@@ -826,11 +826,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e081f8b0-87ec-4699-9529-715e910efcdd",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/12ebd2a3-f18d-45b4-9022-58355d0ca704",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e081f8b0-87ec-4699-9529-715e910efcdd/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/12ebd2a3-f18d-45b4-9022-58355d0ca704/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -839,7 +839,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_64.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1781,2501,1160,948"
@@ -849,11 +849,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ab17ad1e-de17-4bef-ab03-fa1527f5bbd1",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9ee32199-6142-4dfd-b405-80906c831aea",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ab17ad1e-de17-4bef-ab03-fa1527f5bbd1/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9ee32199-6142-4dfd-b405-80906c831aea/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -862,7 +862,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_64.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f64",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3765,2482,994,899"
@@ -908,11 +908,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e0752d7d-6289-489c-8f7c-275f420fdb2c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0c649c52-4a8c-4017-8198-b86900efdb4d",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e0752d7d-6289-489c-8f7c-275f420fdb2c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0c649c52-4a8c-4017-8198-b86900efdb4d/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -921,7 +921,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_65.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f65",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1015,254,581,736"
@@ -931,11 +931,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/426b2aa9-0e72-4fc5-b917-312951e42cdd",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/434909e7-6784-4400-866c-2fa85efcccbb",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/426b2aa9-0e72-4fc5-b917-312951e42cdd/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/434909e7-6784-4400-866c-2fa85efcccbb/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -944,7 +944,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_65.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f65",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4919,3376,395,562"
@@ -954,11 +954,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b20245dc-6bf7-4ad8-9311-36c09cecf33c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9c2e0589-8f80-48c3-b09a-239d732e63d2",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b20245dc-6bf7-4ad8-9311-36c09cecf33c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9c2e0589-8f80-48c3-b09a-239d732e63d2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -967,7 +967,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_65.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f65",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=851,2714,614,539"
@@ -1013,11 +1013,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/355be440-27e1-4b37-aca2-6af183dc93b3",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/59cf03ac-cfa7-4698-9932-7137ed9fd20a",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/355be440-27e1-4b37-aca2-6af183dc93b3/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/59cf03ac-cfa7-4698-9932-7137ed9fd20a/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1026,7 +1026,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_66.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5103,3421,1333,1180"
@@ -1036,11 +1036,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8b120aa0-7b63-4744-9559-7b2ecace2c6b",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/26b264b0-91b9-4262-a4d1-12fc69ae9cf4",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8b120aa0-7b63-4744-9559-7b2ecace2c6b/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/26b264b0-91b9-4262-a4d1-12fc69ae9cf4/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1049,7 +1049,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_66.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4998,2718,518,775"
@@ -1059,11 +1059,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e510e407-6cad-4108-9f75-8c6a395152be",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/65fa87c0-0d3b-4bb0-8503-a8ae02a8109c",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e510e407-6cad-4108-9f75-8c6a395152be/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/65fa87c0-0d3b-4bb0-8503-a8ae02a8109c/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1072,7 +1072,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_66.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4128,281,478,606"
@@ -1082,11 +1082,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3c6ec0d-bd69-4d3f-9310-8eb234e5b2c6",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dffddca0-9841-4eb0-a579-eec34c723e6b",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3c6ec0d-bd69-4d3f-9310-8eb234e5b2c6/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dffddca0-9841-4eb0-a579-eec34c723e6b/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1095,7 +1095,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_66.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5161,1804,327,403"
@@ -1105,11 +1105,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6db271c6-5261-4717-9271-1d17e8b4f61f",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/eb8e0b54-c8a6-4699-8c24-237328569b98",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6db271c6-5261-4717-9271-1d17e8b4f61f/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/eb8e0b54-c8a6-4699-8c24-237328569b98/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1118,7 +1118,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_66.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5132,417,372,465"
@@ -1128,11 +1128,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f8e92e90-8ca7-4dbb-8f88-4ed5d5c3b349",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/61a1d946-802a-4dc8-8fe8-9f8161044e9e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f8e92e90-8ca7-4dbb-8f88-4ed5d5c3b349/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/61a1d946-802a-4dc8-8fe8-9f8161044e9e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1141,7 +1141,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_66.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5151,1633,336,355"
@@ -1151,11 +1151,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/980991b9-a220-430a-b6aa-f399570fe6ba",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9143bf5b-e229-43ec-8bf5-2657ca5b65ee",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/980991b9-a220-430a-b6aa-f399570fe6ba/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9143bf5b-e229-43ec-8bf5-2657ca5b65ee/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1164,7 +1164,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_66.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f66",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3696,2357,1203,1261"
@@ -1210,11 +1210,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/aa7aa5b8-d27a-4533-b36d-ea57cebddff7",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7635b66a-86da-4afb-9079-8252b36f247b",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/aa7aa5b8-d27a-4533-b36d-ea57cebddff7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7635b66a-86da-4afb-9079-8252b36f247b/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1223,7 +1223,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_67.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3904,372,919,952"
@@ -1233,11 +1233,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/530f882d-0bbd-49ae-bdc6-975d2285e76b",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2281e1c1-2f4a-44e0-a511-85dffa427d6f",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/530f882d-0bbd-49ae-bdc6-975d2285e76b/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2281e1c1-2f4a-44e0-a511-85dffa427d6f/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1246,7 +1246,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_67.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3949,2750,779,911"
@@ -1256,11 +1256,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/59e46a4c-13c4-4514-9eb0-99c2a2b141d0",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/31b61e69-a2c3-4c02-945d-ca53545546d4",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/59e46a4c-13c4-4514-9eb0-99c2a2b141d0/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/31b61e69-a2c3-4c02-945d-ca53545546d4/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1269,7 +1269,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_67.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4979,1768,596,698"
@@ -1279,11 +1279,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ccabdca0-80b7-4858-a830-f8a6a2b236f6",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/709d26fe-82f5-4b05-b3ad-2a9cc1ed7c54",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ccabdca0-80b7-4858-a830-f8a6a2b236f6/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/709d26fe-82f5-4b05-b3ad-2a9cc1ed7c54/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1292,7 +1292,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_67.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4938,2877,685,771"
@@ -1302,11 +1302,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9e6453e2-51b6-4733-88c9-9d17aa1dbeee",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5fef6e3a-043d-4780-95f6-7beddae0fa0c",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9e6453e2-51b6-4733-88c9-9d17aa1dbeee/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5fef6e3a-043d-4780-95f6-7beddae0fa0c/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1315,7 +1315,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_67.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3983,1717,665,723"
@@ -1325,11 +1325,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4400a92b-82b1-4b65-a479-773513f85f0e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0bb5801e-77a5-4443-a86b-7336aebda2bd",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4400a92b-82b1-4b65-a479-773513f85f0e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0bb5801e-77a5-4443-a86b-7336aebda2bd/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1338,7 +1338,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_67.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5033,575,567,638"
@@ -1348,11 +1348,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5e9cd605-3ba2-474d-9b05-e6395c95c9a4",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d20e5591-f606-44a8-8278-d50c275ea822",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5e9cd605-3ba2-474d-9b05-e6395c95c9a4/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d20e5591-f606-44a8-8278-d50c275ea822/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1361,7 +1361,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_67.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2062,2944,524,682"
@@ -1371,11 +1371,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/26552121-c20e-41e9-8ccd-30309c50b4b9",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9686e9be-b2c0-4ba1-9ce8-5cff2075b99d",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/26552121-c20e-41e9-8ccd-30309c50b4b9/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9686e9be-b2c0-4ba1-9ce8-5cff2075b99d/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1384,7 +1384,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_67.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1019,1768,542,630"
@@ -1394,11 +1394,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c5700c66-e870-41bd-bf01-9676d455954c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8362e174-76c7-4897-8f8e-3b2d88725210",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c5700c66-e870-41bd-bf01-9676d455954c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8362e174-76c7-4897-8f8e-3b2d88725210/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1407,7 +1407,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_67.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1020,2851,504,708"
@@ -1417,11 +1417,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1b72c68c-753b-4fcf-8045-dd7f3f4a88dc",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6d00925f-1fda-40f9-9fa2-1c128a3fbb6d",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1b72c68c-753b-4fcf-8045-dd7f3f4a88dc/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6d00925f-1fda-40f9-9fa2-1c128a3fbb6d/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1430,7 +1430,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_67.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2005,746,491,508"
@@ -1440,11 +1440,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3e2d54b1-5b40-403a-b897-32b4983fd667",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fc21a8fa-e543-494d-8797-948702ff2c9e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3e2d54b1-5b40-403a-b897-32b4983fd667/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fc21a8fa-e543-494d-8797-948702ff2c9e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1453,7 +1453,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_67.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2029,1886,495,529"
@@ -1463,11 +1463,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3e2b3846-b733-4be4-a901-a70842a5be88",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9ef22c22-bed0-466a-b944-cdb745d653a2",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3e2b3846-b733-4be4-a901-a70842a5be88/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9ef22c22-bed0-466a-b944-cdb745d653a2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1476,7 +1476,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_67.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1031,734,470,535"
@@ -1486,11 +1486,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/26260176-eba9-4af8-9f44-424eb9bc3f39",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2fe8c153-7182-476d-81c0-df6444222f4c",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/26260176-eba9-4af8-9f44-424eb9bc3f39/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2fe8c153-7182-476d-81c0-df6444222f4c/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1499,7 +1499,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_67.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f67",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5137,541,437,403"
@@ -1545,11 +1545,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b84a67db-4464-4647-af1a-a8edde194b40",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7403a0bc-c03d-4bd0-842b-136fa7a4f4c2",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b84a67db-4464-4647-af1a-a8edde194b40/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7403a0bc-c03d-4bd0-842b-136fa7a4f4c2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1558,7 +1558,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=891,1732,727,807"
@@ -1568,11 +1568,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/03139e19-765a-48e8-b697-a7149c4ead92",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0f80519d-9c3d-4bd9-b541-4b9bf598afce",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/03139e19-765a-48e8-b697-a7149c4ead92/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0f80519d-9c3d-4bd9-b541-4b9bf598afce/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1581,7 +1581,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=939,2808,660,844"
@@ -1591,11 +1591,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a0af1ff9-3da8-41a8-b248-6e3b63e8c71c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/34d615b6-0e5b-4e0d-8ae0-2b159f180e10",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a0af1ff9-3da8-41a8-b248-6e3b63e8c71c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/34d615b6-0e5b-4e0d-8ae0-2b159f180e10/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1604,7 +1604,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3897,1660,743,853"
@@ -1614,11 +1614,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b61d660b-4309-45e1-b9b0-28e6f1825869",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/538f9b8f-aa17-4e7f-b9fe-73f203e58584",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b61d660b-4309-45e1-b9b0-28e6f1825869/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/538f9b8f-aa17-4e7f-b9fe-73f203e58584/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1627,7 +1627,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3922,2826,689,792"
@@ -1637,11 +1637,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3a1836f4-94fd-4e4a-b236-88582fc4ffd0",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ff35b221-1d00-4f74-bc87-d5a8fd6b16fb",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3a1836f4-94fd-4e4a-b236-88582fc4ffd0/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ff35b221-1d00-4f74-bc87-d5a8fd6b16fb/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1650,7 +1650,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1920,1684,658,860"
@@ -1660,11 +1660,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a24217f4-c8b1-4726-8a5a-290acd6818bc",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/937e1dd8-51a4-46b4-8275-25ae29a62332",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a24217f4-c8b1-4726-8a5a-290acd6818bc/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/937e1dd8-51a4-46b4-8275-25ae29a62332/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1673,7 +1673,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=890,574,659,769"
@@ -1683,11 +1683,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/055247cf-70ec-4f1e-b52a-555898176dda",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ecd44d61-c845-4b03-8df4-42bc3b1e03f2",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/055247cf-70ec-4f1e-b52a-555898176dda/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ecd44d61-c845-4b03-8df4-42bc3b1e03f2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1696,7 +1696,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4996,2933,590,698"
@@ -1706,11 +1706,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b80569a1-967a-4df3-b4bc-a1eeebc5eeb2",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c7e64dcb-92f5-49d0-a0cd-c7ddfc232615",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b80569a1-967a-4df3-b4bc-a1eeebc5eeb2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c7e64dcb-92f5-49d0-a0cd-c7ddfc232615/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1719,7 +1719,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3753,466,1039,977"
@@ -1729,11 +1729,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/56341115-0e5d-479f-b67f-36a99a6c30d8",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a56d1acd-e4e9-4d62-8737-8d32f59fb213",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/56341115-0e5d-479f-b67f-36a99a6c30d8/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a56d1acd-e4e9-4d62-8737-8d32f59fb213/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1742,7 +1742,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1893,553,687,853"
@@ -1752,11 +1752,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3fbb66c2-ae25-4b68-ac68-62ca0cc29174",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67ee3cc6-991f-482c-bd66-9f02f13da6ce",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3fbb66c2-ae25-4b68-ac68-62ca0cc29174/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67ee3cc6-991f-482c-bd66-9f02f13da6ce/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1765,7 +1765,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4997,685,567,606"
@@ -1775,11 +1775,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63d71c8a-4ed2-419e-92dd-216a0bef40d6",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/811cd561-75d5-4a74-9c34-b50ae2fce125",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63d71c8a-4ed2-419e-92dd-216a0bef40d6/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/811cd561-75d5-4a74-9c34-b50ae2fce125/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1788,7 +1788,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4953,1785,672,675"
@@ -1798,11 +1798,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6869b414-1f5f-4a4b-8118-5e630923754e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/895b1d17-cbf3-493c-8437-eae826fdb63b",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6869b414-1f5f-4a4b-8118-5e630923754e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/895b1d17-cbf3-493c-8437-eae826fdb63b/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1811,7 +1811,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1993,2973,576,763"
@@ -1821,11 +1821,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/531affdf-ca5a-4fe4-8db9-d3e3503eae8e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/51ac300c-6248-4e56-adac-175ee43b8619",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/531affdf-ca5a-4fe4-8db9-d3e3503eae8e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/51ac300c-6248-4e56-adac-175ee43b8619/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1834,7 +1834,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3970,635,644,664"
@@ -1844,11 +1844,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8c6a9297-8ebe-4054-beef-ca7cd77a7dd0",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8563f52c-cd2f-4ad8-8923-27f7e8d6645e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8c6a9297-8ebe-4054-beef-ca7cd77a7dd0/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8563f52c-cd2f-4ad8-8923-27f7e8d6645e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1857,7 +1857,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_68.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f68",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1870,2826,979,1002"
@@ -1903,11 +1903,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fd385b20-198d-441e-94d8-cc43142d4884",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0fcea473-5a80-4cbc-9aeb-2e4e7323109f",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/fd385b20-198d-441e-94d8-cc43142d4884/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0fcea473-5a80-4cbc-9aeb-2e4e7323109f/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1916,7 +1916,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_69.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1891,496,716,813"
@@ -1926,11 +1926,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf3df748-68e5-42f5-a71c-d9112a5fe0e2",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d4b48b36-e3b2-48f4-88a7-2f8c3dc8ce7a",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf3df748-68e5-42f5-a71c-d9112a5fe0e2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d4b48b36-e3b2-48f4-88a7-2f8c3dc8ce7a/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1939,7 +1939,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_69.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3782,2474,964,1008"
@@ -1949,11 +1949,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/491b2e70-9378-4757-8d10-bfe8541397a8",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ecc39c8b-f8c3-4eb4-abce-979da0279b76",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/491b2e70-9378-4757-8d10-bfe8541397a8/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ecc39c8b-f8c3-4eb4-abce-979da0279b76/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1962,7 +1962,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_69.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1950,2738,769,881"
@@ -1972,11 +1972,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5d4c9127-a4d8-49bc-8753-bd73298c60f3",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3374c234-bd12-4748-9b72-b776cf50a31c",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5d4c9127-a4d8-49bc-8753-bd73298c60f3/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3374c234-bd12-4748-9b72-b776cf50a31c/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1985,7 +1985,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_69.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=975,1654,655,779"
@@ -1995,11 +1995,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/accf9f67-59e0-4a11-b8e9-c0f2560ab453",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d3ee6861-28bd-4e95-98e8-898d28b7223a",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/accf9f67-59e0-4a11-b8e9-c0f2560ab453/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d3ee6861-28bd-4e95-98e8-898d28b7223a/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2008,7 +2008,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_69.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=906,531,757,811"
@@ -2018,11 +2018,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0514a8bc-b21a-486c-8c4c-e92b66e3ed1f",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0bcee074-ca74-48ab-9f23-253b59f42451",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0514a8bc-b21a-486c-8c4c-e92b66e3ed1f/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0bcee074-ca74-48ab-9f23-253b59f42451/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2031,7 +2031,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_69.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3906,279,746,749"
@@ -2041,11 +2041,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bfe740e9-4ec4-43c6-980b-b00bc0301142",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c3e769c1-4419-4d9c-8e01-cfc6fd157677",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bfe740e9-4ec4-43c6-980b-b00bc0301142/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c3e769c1-4419-4d9c-8e01-cfc6fd157677/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2054,7 +2054,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_69.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=988,2903,613,671"
@@ -2064,11 +2064,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/46059248-5885-4e0f-af09-ba29b71560fc",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ff80a012-e1f2-4dfb-bdf6-f27e10eeac06",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/46059248-5885-4e0f-af09-ba29b71560fc/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ff80a012-e1f2-4dfb-bdf6-f27e10eeac06/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2077,7 +2077,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_69.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1938,1696,636,711"
@@ -2087,11 +2087,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/12c0cc22-7d69-4a6b-b820-23bd132a74df",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cd5566c9-bd38-42a7-9a53-003a190140d6",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/12c0cc22-7d69-4a6b-b820-23bd132a74df/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cd5566c9-bd38-42a7-9a53-003a190140d6/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2100,7 +2100,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_69.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5010,543,551,559"
@@ -2110,11 +2110,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6ea00fe-2c8b-432c-809e-67ae4325eee0",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f1fac81f-bd6a-4ce8-8518-9f1070859046",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6ea00fe-2c8b-432c-809e-67ae4325eee0/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f1fac81f-bd6a-4ce8-8518-9f1070859046/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2123,7 +2123,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_69.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4964,2621,578,683"
@@ -2133,11 +2133,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3732a9a4-08ac-43ad-ac03-0ccaa3bc3da7",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4ad277d7-456a-4f7c-b6db-7b9a0fc711b5",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3732a9a4-08ac-43ad-ac03-0ccaa3bc3da7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4ad277d7-456a-4f7c-b6db-7b9a0fc711b5/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2146,7 +2146,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_69.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f69",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4779,2516,958,946"
@@ -2192,11 +2192,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e6c2f910-e65d-4ac3-b492-1d4bf66fe9f6",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/590e9b75-86bc-4380-9a0f-f3a5bf3db495",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e6c2f910-e65d-4ac3-b492-1d4bf66fe9f6/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/590e9b75-86bc-4380-9a0f-f3a5bf3db495/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2205,7 +2205,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_70.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4414,3727,410,373"
@@ -2215,11 +2215,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/65f9395e-81bd-488c-a6e5-d1f322b3875a",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/157f321c-fe8c-4174-b031-ff29a2bbc3ab",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/65f9395e-81bd-488c-a6e5-d1f322b3875a/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/157f321c-fe8c-4174-b031-ff29a2bbc3ab/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2228,7 +2228,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_70.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3755,228,1004,934"
@@ -2238,11 +2238,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/97781b1e-01cc-4653-a34a-f215294e9c8f",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1ecd7cdc-3751-406b-bae9-49a7840809f3",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/97781b1e-01cc-4653-a34a-f215294e9c8f/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1ecd7cdc-3751-406b-bae9-49a7840809f3/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2251,7 +2251,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_70.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=997,2606,672,751"
@@ -2261,11 +2261,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/58eb2a3e-b134-4440-ac1f-8ed5793a53ba",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c092d29e-c0b8-4787-90c7-673202a0e96a",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/58eb2a3e-b134-4440-ac1f-8ed5793a53ba/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c092d29e-c0b8-4787-90c7-673202a0e96a/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2274,7 +2274,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_70.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3942,2625,622,676"
@@ -2284,11 +2284,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/182980ea-99cb-4ec0-b626-0387275fb714",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3d80b8bb-c73c-4688-af96-6e67c4e4e7e7",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/182980ea-99cb-4ec0-b626-0387275fb714/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3d80b8bb-c73c-4688-af96-6e67c4e4e7e7/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2297,7 +2297,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_70.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1014,313,659,699"
@@ -2307,11 +2307,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c8f01f30-cf31-473a-bf58-22bce83fd83a",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9dc92efa-96fe-4ad5-92d9-0d36c2d2d06d",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c8f01f30-cf31-473a-bf58-22bce83fd83a/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9dc92efa-96fe-4ad5-92d9-0d36c2d2d06d/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2320,7 +2320,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_70.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1962,307,691,751"
@@ -2330,11 +2330,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/50dc96ea-cbe5-41dd-84af-e2335b744c13",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/32cb2df4-c90b-41a6-a07f-d55f968f9748",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/50dc96ea-cbe5-41dd-84af-e2335b744c13/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/32cb2df4-c90b-41a6-a07f-d55f968f9748/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2343,7 +2343,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_70.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4911,324,730,704"
@@ -2353,11 +2353,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2b25fc6b-f625-4935-975d-22b0df7d0604",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/899fccd0-5b13-4647-88f9-75b17d3f1618",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2b25fc6b-f625-4935-975d-22b0df7d0604/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/899fccd0-5b13-4647-88f9-75b17d3f1618/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2366,7 +2366,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_70.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2080,2667,515,623"
@@ -2376,11 +2376,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1e0c5be9-c631-49a7-8765-f543ca2380c2",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3991edfe-4944-497d-b5d4-9b6ba8df1b8c",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1e0c5be9-c631-49a7-8765-f543ca2380c2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3991edfe-4944-497d-b5d4-9b6ba8df1b8c/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2389,7 +2389,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_70.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4926,2593,667,685"
@@ -2399,11 +2399,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b35bee47-71de-47b8-83e7-fea766e4472d",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e6e57e9-8363-4261-93e8-8a0e6c723716",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b35bee47-71de-47b8-83e7-fea766e4472d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e6e57e9-8363-4261-93e8-8a0e6c723716/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2412,7 +2412,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_70.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f70",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4767,2475,1046,982"
@@ -2458,11 +2458,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e042fdfd-394b-48b8-b22b-a752e460885a",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bc244b0c-9bf7-4b8d-920c-aeba047a9ba4",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e042fdfd-394b-48b8-b22b-a752e460885a/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bc244b0c-9bf7-4b8d-920c-aeba047a9ba4/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2471,7 +2471,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_71.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3898,299,593,651"
@@ -2481,11 +2481,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7e927dde-8945-41c6-8a85-8c1dab56e6ee",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/65e980c3-7bd4-4bd1-a426-2e521dacb443",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7e927dde-8945-41c6-8a85-8c1dab56e6ee/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/65e980c3-7bd4-4bd1-a426-2e521dacb443/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2494,7 +2494,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_71.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4974,2667,509,548"
@@ -2504,11 +2504,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3eab94e7-37a9-47e3-8b8c-9cd8603d1a35",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/84acb4eb-fc7b-4e7d-83b5-835962333c4d",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3eab94e7-37a9-47e3-8b8c-9cd8603d1a35/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/84acb4eb-fc7b-4e7d-83b5-835962333c4d/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2517,7 +2517,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_71.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4908,337,590,583"
@@ -2527,11 +2527,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2e249119-70b4-40b1-b8af-343259be023f",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8e7bf2c-6f84-4a33-82e7-ffe88ff6702e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2e249119-70b4-40b1-b8af-343259be023f/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8e7bf2c-6f84-4a33-82e7-ffe88ff6702e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2540,7 +2540,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_71.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2108,2763,476,508"
@@ -2550,11 +2550,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/effdcf1e-00a8-4dd8-b36b-7c4cc7c34111",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/91b1c780-ce16-4018-9c55-3c8fb28f3f7b",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/effdcf1e-00a8-4dd8-b36b-7c4cc7c34111/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/91b1c780-ce16-4018-9c55-3c8fb28f3f7b/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2563,7 +2563,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_71.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3690,215,981,930"
@@ -2573,11 +2573,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6207474d-de76-44c8-b010-1bf1c8560ea9",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/865c2d64-730e-44be-9abb-0fdf9de5a44c",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6207474d-de76-44c8-b010-1bf1c8560ea9/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/865c2d64-730e-44be-9abb-0fdf9de5a44c/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2586,7 +2586,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_71.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1050,374,541,617"
@@ -2596,11 +2596,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9268c6f2-caf3-4d51-95eb-6d23d3d189ae",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/593b82b0-37a9-4f8d-a36e-7dcb7795d16a",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9268c6f2-caf3-4d51-95eb-6d23d3d189ae/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/593b82b0-37a9-4f8d-a36e-7dcb7795d16a/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2609,7 +2609,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_71.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f71",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4033,2617,418,505"
@@ -2655,11 +2655,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/45122e79-5d64-4b8a-a8d4-6850e250125a",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/32fb39fd-db08-48ab-8b0b-a23073ead0e3",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/45122e79-5d64-4b8a-a8d4-6850e250125a/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/32fb39fd-db08-48ab-8b0b-a23073ead0e3/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2668,7 +2668,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_72.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3999,2898,482,487"
@@ -2678,11 +2678,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/32542f74-3988-4881-a3dc-72f3c8054ccb",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1705ccbe-b2b1-4960-bb5d-824cd26c15a6",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/32542f74-3988-4881-a3dc-72f3c8054ccb/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1705ccbe-b2b1-4960-bb5d-824cd26c15a6/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2691,7 +2691,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_72.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4962,389,586,644"
@@ -2701,11 +2701,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4dd03ac3-8464-483a-904c-b51a717e3a96",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/912f79ba-4d87-490c-a8aa-82216e95fcd0",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4dd03ac3-8464-483a-904c-b51a717e3a96/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/912f79ba-4d87-490c-a8aa-82216e95fcd0/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2714,7 +2714,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_72.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3670,236,1060,1031"
@@ -2724,11 +2724,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9bb75fb6-1699-4570-a034-b17b1683f690",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cd722374-743b-4dba-a63d-ecb2c5a617e5",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9bb75fb6-1699-4570-a034-b17b1683f690/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cd722374-743b-4dba-a63d-ecb2c5a617e5/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2737,7 +2737,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_72.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2189,339,451,702"
@@ -2747,11 +2747,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/147b1ad9-24e2-4182-8051-c299ff087a0e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/47770cb4-a415-4dba-82b1-e27418aa8fb0",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/147b1ad9-24e2-4182-8051-c299ff087a0e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/47770cb4-a415-4dba-82b1-e27418aa8fb0/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2760,7 +2760,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_72.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1163,2656,499,601"
@@ -2770,11 +2770,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d3840d36-9072-4498-8e9e-cb240aa44b82",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1c649db5-9d9c-45b5-86d0-509f04f7d63d",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d3840d36-9072-4498-8e9e-cb240aa44b82/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1c649db5-9d9c-45b5-86d0-509f04f7d63d/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2783,7 +2783,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_72.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2124,2604,469,588"
@@ -2793,11 +2793,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/03432207-4dd2-4a53-9911-ca67dc016159",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bc731212-5764-4ad9-ae3e-e3cf2863b1dd",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/03432207-4dd2-4a53-9911-ca67dc016159/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bc731212-5764-4ad9-ae3e-e3cf2863b1dd/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2806,7 +2806,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_72.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2575,404,383,490"
@@ -2816,11 +2816,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da1f4f07-1f9c-4542-a3a8-47d5ae5535cf",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2e35f645-28b7-4dba-8eb6-850b9e66aa8a",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da1f4f07-1f9c-4542-a3a8-47d5ae5535cf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2e35f645-28b7-4dba-8eb6-850b9e66aa8a/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2829,7 +2829,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_72.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2165,2871,454,466"
@@ -2839,11 +2839,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d4465c7b-9471-4f6b-86d4-0239992b2189",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dc11f486-e478-40ea-ad35-ea0fac533c80",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d4465c7b-9471-4f6b-86d4-0239992b2189/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dc11f486-e478-40ea-ad35-ea0fac533c80/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2852,7 +2852,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_72.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3980,449,576,503"
@@ -2862,11 +2862,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/38e0886d-00d0-4d10-a808-bdac846a1fcc",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5a57ff02-8ad5-4cc8-9d2f-48ced0529196",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/38e0886d-00d0-4d10-a808-bdac846a1fcc/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5a57ff02-8ad5-4cc8-9d2f-48ced0529196/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2875,7 +2875,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_72.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f72",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5119,2769,340,411"
@@ -2921,11 +2921,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2349aace-7f9a-4bbb-bded-df8c084f00c4",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6020a232-40e0-4368-9a80-d7af36102caf",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2349aace-7f9a-4bbb-bded-df8c084f00c4/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6020a232-40e0-4368-9a80-d7af36102caf/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2934,7 +2934,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3709,255,1038,967"
@@ -2944,11 +2944,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/53d56b02-b51d-4efb-b7b5-c483a1a6617f",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/673a787f-8fa1-4f32-a1ad-cc54fa99d6e1",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/53d56b02-b51d-4efb-b7b5-c483a1a6617f/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/673a787f-8fa1-4f32-a1ad-cc54fa99d6e1/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2957,7 +2957,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2154,446,524,579"
@@ -2967,11 +2967,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/56cef166-f133-47f7-8419-2052edb6474b",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/278e3373-dcc6-4b64-8f37-c646f6f9e7ca",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/56cef166-f133-47f7-8419-2052edb6474b/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/278e3373-dcc6-4b64-8f37-c646f6f9e7ca/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2980,7 +2980,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1109,2681,620,579"
@@ -2990,11 +2990,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6676a90d-401e-4fb4-befd-c2a6f7ae250d",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c6e8adff-ecb9-4008-8b52-088c884f3bff",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6676a90d-401e-4fb4-befd-c2a6f7ae250d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c6e8adff-ecb9-4008-8b52-088c884f3bff/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3003,7 +3003,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1204,334,429,464"
@@ -3013,11 +3013,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6be9b699-8a9f-41fa-b151-d44a825c16bd",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3ca5663d-d405-444e-9982-3b80482f7b84",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6be9b699-8a9f-41fa-b151-d44a825c16bd/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3ca5663d-d405-444e-9982-3b80482f7b84/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3026,7 +3026,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3962,3450,538,549"
@@ -3036,11 +3036,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2c546984-dca7-46b6-912e-ec37baf48561",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4d6ab85e-2452-47e6-a7d4-c5a6f1073a21",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2c546984-dca7-46b6-912e-ec37baf48561/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4d6ab85e-2452-47e6-a7d4-c5a6f1073a21/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3049,7 +3049,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5122,338,549,720"
@@ -3059,11 +3059,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/98429534-7d5a-4cfd-a464-5622872a19c3",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2832f4a0-41c9-4fa8-840c-bac752d3b863",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/98429534-7d5a-4cfd-a464-5622872a19c3/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2832f4a0-41c9-4fa8-840c-bac752d3b863/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3072,7 +3072,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1390,306,409,531"
@@ -3082,11 +3082,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75fc3c94-e254-4fc9-bf84-5ec62e830052",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f9914ad8-50c7-4324-8ea7-6d2d42e0a57c",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75fc3c94-e254-4fc9-bf84-5ec62e830052/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f9914ad8-50c7-4324-8ea7-6d2d42e0a57c/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3095,7 +3095,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2158,2844,449,521"
@@ -3105,11 +3105,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/56911295-666f-4c5e-9f87-1d1df802d321",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cd4816f9-305d-4cf5-9cd0-bc00b9882406",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/56911295-666f-4c5e-9f87-1d1df802d321/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cd4816f9-305d-4cf5-9cd0-bc00b9882406/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3118,7 +3118,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5432,412,442,538"
@@ -3128,11 +3128,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b2bcf7c4-f8dc-4341-8622-6227f49e39a3",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/af87d649-5429-4441-89bb-ea3c16e4e974",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b2bcf7c4-f8dc-4341-8622-6227f49e39a3/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/af87d649-5429-4441-89bb-ea3c16e4e974/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3141,7 +3141,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1196,616,414,419"
@@ -3151,11 +3151,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d3a6c6ee-99fa-44d5-b578-d9c35fd56e86",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f71c1a5-ff19-484b-b37d-ab45fa2731aa",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d3a6c6ee-99fa-44d5-b578-d9c35fd56e86/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1f71c1a5-ff19-484b-b37d-ab45fa2731aa/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3164,7 +3164,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5087,1865,381,540"
@@ -3174,11 +3174,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c16266eb-3524-470b-abc0-487fa755e79c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8aeacf2f-6f83-4fef-a4ad-4761d6f4d2cb",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c16266eb-3524-470b-abc0-487fa755e79c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8aeacf2f-6f83-4fef-a4ad-4761d6f4d2cb/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3187,7 +3187,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1433,646,335,392"
@@ -3197,11 +3197,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/eb239e17-6fa9-4e4c-964e-2ea0b5614cdf",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/01e2e810-4855-4b3b-9da9-79420a18cfdb",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/eb239e17-6fa9-4e4c-964e-2ea0b5614cdf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/01e2e810-4855-4b3b-9da9-79420a18cfdb/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3210,7 +3210,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=3682,3127,1093,1000"
@@ -3220,11 +3220,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c5ed0a46-ea9b-4cea-8135-c0ec4673a220",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d8dc4ce4-21f9-421a-9b30-86a82168660c",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c5ed0a46-ea9b-4cea-8135-c0ec4673a220/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d8dc4ce4-21f9-421a-9b30-86a82168660c/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3233,7 +3233,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_73.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f73",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=5026,3699,391,396"
@@ -3279,11 +3279,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/50cf86bb-1524-4244-9848-f767004af399",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b7cf75c-36b7-4f38-9644-37b4425809fd",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/50cf86bb-1524-4244-9848-f767004af399/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b7cf75c-36b7-4f38-9644-37b4425809fd/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3292,7 +3292,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_74.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1145,696,428,376"
@@ -3302,11 +3302,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dbda3269-8d87-4edd-b885-c6d1fd752f08",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/55ad8148-f16a-47a9-b6ac-00a9bc2809b9",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dbda3269-8d87-4edd-b885-c6d1fd752f08/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/55ad8148-f16a-47a9-b6ac-00a9bc2809b9/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3315,7 +3315,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_74.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2534,351,367,366"
@@ -3325,11 +3325,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3ee14d06-c10a-45af-bc9a-cba60b5ffddf",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3ed225b1-48f0-46d4-9c17-4ff4e0753f1b",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3ee14d06-c10a-45af-bc9a-cba60b5ffddf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3ed225b1-48f0-46d4-9c17-4ff4e0753f1b/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3338,7 +3338,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_74.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2180,392,374,435"
@@ -3348,11 +3348,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/759ebafc-180b-4ffb-b408-6d3105b555c6",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d9ed32e-c81e-4a91-8e5e-ddf392b189bf",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/759ebafc-180b-4ffb-b408-6d3105b555c6/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0d9ed32e-c81e-4a91-8e5e-ddf392b189bf/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3361,7 +3361,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_74.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1093,2643,510,533"
@@ -3371,11 +3371,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/05cf0032-d746-402c-9daf-a9793adcec8e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67b2a535-5f45-466f-8b94-e77587eb3bd5",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/05cf0032-d746-402c-9daf-a9793adcec8e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67b2a535-5f45-466f-8b94-e77587eb3bd5/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3384,7 +3384,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_74.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f74",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2168,2720,426,498"
@@ -3570,11 +3570,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/126b7e62-7da8-4942-8b18-0f0c33eaae78",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b9cb3ba1-2e74-40ca-927d-7193884116ba",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/126b7e62-7da8-4942-8b18-0f0c33eaae78/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b9cb3ba1-2e74-40ca-927d-7193884116ba/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3583,7 +3583,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_79.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f79",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=4583,2440,360,324"
@@ -3629,11 +3629,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/98c649f9-a885-48bc-ba06-6f5f15d0c25c",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8169b97f-f415-422e-a5cc-5546ca7cbebd",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/98c649f9-a885-48bc-ba06-6f5f15d0c25c/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8169b97f-f415-422e-a5cc-5546ca7cbebd/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3642,7 +3642,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_80.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f80",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=2082,2026,302,300"
@@ -3652,11 +3652,11 @@
                             ]
                         },
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bf616780-d91a-4275-86b8-793636e9befd",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/43a618e8-2164-49e7-8d4a-bb1036109318",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/bf616780-d91a-4275-86b8-793636e9befd/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/43a618e8-2164-49e7-8d4a-bb1036109318/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3665,7 +3665,7 @@
                                         "format": "text/plain"
                                     },
                                     "target": {
-                                        "source": "/media/p_schn/DATA/digital-heraldry/image-management/data/image-data/Paris_bnf_Fr_18648/Paris_bnf_Fr_18648_80.jpg",
+                                        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f80",
                                         "selector": {
                                             "type": "FragmentSelector",
                                             "value": "xywh=#xywh=1730,2428,385,341"
