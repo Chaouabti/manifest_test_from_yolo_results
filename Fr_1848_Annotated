@@ -53,12 +53,1575 @@
             "value": "Manuscrit"
         }
     ],
-    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753.thumbnail"},
-    "@type": "sc:Manifest",
-    "@context": "http://iiif.io/api/presentation/2/context.json",
     "sequences": [
         {
             "canvases": [
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f1",
+                    "label": "NP",
+                    "height": 4995,
+                    "width": 6610,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f1",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f1"
+                                },
+                                "height": 4995,
+                                "width": 6610,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f1/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f1.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f2",
+                    "label": "NP",
+                    "height": 4989,
+                    "width": 6591,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f2",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f2"
+                                },
+                                "height": 4989,
+                                "width": 6591,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f2/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f2.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f3",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6592,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f3",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f3"
+                                },
+                                "height": 4990,
+                                "width": 6592,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f3/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f3.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f4",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6590,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f4",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f4"
+                                },
+                                "height": 4990,
+                                "width": 6590,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f4/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f4.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f5",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6595,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f5",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f5"
+                                },
+                                "height": 4990,
+                                "width": 6595,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f5/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f5.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f6",
+                    "label": "NP",
+                    "height": 4987,
+                    "width": 6589,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f6",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f6"
+                                },
+                                "height": 4987,
+                                "width": 6589,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f6/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f6.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f7",
+                    "label": "NP",
+                    "height": 4992,
+                    "width": 6587,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f7",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f7"
+                                },
+                                "height": 4992,
+                                "width": 6587,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f7/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f7.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f8",
+                    "label": "NP",
+                    "height": 4993,
+                    "width": 6592,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f8",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f8"
+                                },
+                                "height": 4993,
+                                "width": 6592,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f8/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f8.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f9",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6588,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f9",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f9"
+                                },
+                                "height": 4990,
+                                "width": 6588,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f9/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f9.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f10",
+                    "label": "NP",
+                    "height": 4988,
+                    "width": 6588,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f10",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f10"
+                                },
+                                "height": 4988,
+                                "width": 6588,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f10/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f10.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f11",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6588,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f11",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f11"
+                                },
+                                "height": 4990,
+                                "width": 6588,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f11/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f11.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f12",
+                    "label": "NP",
+                    "height": 4996,
+                    "width": 6594,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f12",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f12"
+                                },
+                                "height": 4996,
+                                "width": 6594,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f12/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f12.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f13",
+                    "label": "NP",
+                    "height": 4992,
+                    "width": 6593,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f13",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f13"
+                                },
+                                "height": 4992,
+                                "width": 6593,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f13/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f13.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f14",
+                    "label": "NP",
+                    "height": 4992,
+                    "width": 6587,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f14",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f14"
+                                },
+                                "height": 4992,
+                                "width": 6587,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f14/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f14.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f15",
+                    "label": "NP",
+                    "height": 4988,
+                    "width": 6588,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f15",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f15"
+                                },
+                                "height": 4988,
+                                "width": 6588,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f15/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f15.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f16",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6589,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f16",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f16"
+                                },
+                                "height": 4990,
+                                "width": 6589,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f16/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f16.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f17",
+                    "label": "NP",
+                    "height": 4994,
+                    "width": 6596,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f17",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f17"
+                                },
+                                "height": 4994,
+                                "width": 6596,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f17/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f17.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f18",
+                    "label": "NP",
+                    "height": 4996,
+                    "width": 6587,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f18",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f18"
+                                },
+                                "height": 4996,
+                                "width": 6587,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f18/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f18.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f19",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6591,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f19",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f19"
+                                },
+                                "height": 4990,
+                                "width": 6591,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f19/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f19.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f20",
+                    "label": "NP",
+                    "height": 4998,
+                    "width": 6597,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f20",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f20"
+                                },
+                                "height": 4998,
+                                "width": 6597,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f20/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f20.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f21",
+                    "label": "NP",
+                    "height": 4991,
+                    "width": 6591,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f21",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f21"
+                                },
+                                "height": 4991,
+                                "width": 6591,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f21/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f21.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f22",
+                    "label": "NP",
+                    "height": 4997,
+                    "width": 6583,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f22",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f22"
+                                },
+                                "height": 4997,
+                                "width": 6583,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f22/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f22.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f23",
+                    "label": "NP",
+                    "height": 4991,
+                    "width": 6590,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f23",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f23"
+                                },
+                                "height": 4991,
+                                "width": 6590,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f23/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f23.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f24",
+                    "label": "NP",
+                    "height": 4994,
+                    "width": 6596,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f24",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f24"
+                                },
+                                "height": 4994,
+                                "width": 6596,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f24/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f24.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f25",
+                    "label": "NP",
+                    "height": 4991,
+                    "width": 6584,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f25",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f25"
+                                },
+                                "height": 4991,
+                                "width": 6584,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f25/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f25.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f26",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6583,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f26",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f26"
+                                },
+                                "height": 4990,
+                                "width": 6583,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f26/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f26.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f27",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6587,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f27",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f27"
+                                },
+                                "height": 4990,
+                                "width": 6587,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f27/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f27.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f28",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6588,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f28",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f28"
+                                },
+                                "height": 4990,
+                                "width": 6588,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f28/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f28.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f29",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6587,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f29",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f29"
+                                },
+                                "height": 4990,
+                                "width": 6587,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f29/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f29.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f30",
+                    "label": "NP",
+                    "height": 4992,
+                    "width": 6588,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f30",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f30"
+                                },
+                                "height": 4992,
+                                "width": 6588,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f30/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f30.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f31",
+                    "label": "NP",
+                    "height": 4992,
+                    "width": 6590,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f31",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f31"
+                                },
+                                "height": 4992,
+                                "width": 6590,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f31/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f31.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f32",
+                    "label": "NP",
+                    "height": 4993,
+                    "width": 6578,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f32",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f32"
+                                },
+                                "height": 4993,
+                                "width": 6578,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f32/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f32.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f33",
+                    "label": "NP",
+                    "height": 4991,
+                    "width": 6577,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f33",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f33"
+                                },
+                                "height": 4991,
+                                "width": 6577,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f33/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f33.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f34",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6587,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f34",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f34"
+                                },
+                                "height": 4990,
+                                "width": 6587,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f34/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f34.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f35",
+                    "label": "NP",
+                    "height": 4998,
+                    "width": 6593,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f35",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f35"
+                                },
+                                "height": 4998,
+                                "width": 6593,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f35/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f35.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f36",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6587,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f36",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f36"
+                                },
+                                "height": 4990,
+                                "width": 6587,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f36/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f36.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f37",
+                    "label": "NP",
+                    "height": 4991,
+                    "width": 6585,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f37",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f37"
+                                },
+                                "height": 4991,
+                                "width": 6585,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f37/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f37.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f38",
+                    "label": "NP",
+                    "height": 4995,
+                    "width": 6595,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f38",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f38"
+                                },
+                                "height": 4995,
+                                "width": 6595,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f38/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f38.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f39",
+                    "label": "NP",
+                    "height": 4992,
+                    "width": 6594,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f39",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f39"
+                                },
+                                "height": 4992,
+                                "width": 6594,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f39/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f39.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f40",
+                    "label": "NP",
+                    "height": 4992,
+                    "width": 6589,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f40",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f40"
+                                },
+                                "height": 4992,
+                                "width": 6589,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f40/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f40.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f41",
+                    "label": "NP",
+                    "height": 4993,
+                    "width": 6596,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f41",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f41"
+                                },
+                                "height": 4993,
+                                "width": 6596,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f41/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f41.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f42",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6588,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f42",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f42"
+                                },
+                                "height": 4990,
+                                "width": 6588,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f42/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f42.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f43",
+                    "label": "NP",
+                    "height": 4991,
+                    "width": 6583,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f43",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f43"
+                                },
+                                "height": 4991,
+                                "width": 6583,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f43/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f43.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f44",
+                    "label": "NP",
+                    "height": 4993,
+                    "width": 6582,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f44",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f44"
+                                },
+                                "height": 4993,
+                                "width": 6582,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f44/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f44.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f45",
+                    "label": "NP",
+                    "height": 4991,
+                    "width": 6591,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f45",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f45"
+                                },
+                                "height": 4991,
+                                "width": 6591,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f45/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f45.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f46",
+                    "label": "NP",
+                    "height": 4994,
+                    "width": 6596,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f46",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f46"
+                                },
+                                "height": 4994,
+                                "width": 6596,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f46/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f46.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f47",
+                    "label": "NP",
+                    "height": 4991,
+                    "width": 6587,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f47",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f47"
+                                },
+                                "height": 4991,
+                                "width": 6587,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f47/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f47.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f48",
+                    "label": "NP",
+                    "height": 4992,
+                    "width": 6587,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f48",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f48"
+                                },
+                                "height": 4992,
+                                "width": 6587,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f48/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f48.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f49",
+                    "label": "NP",
+                    "height": 4995,
+                    "width": 6593,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f49",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f49"
+                                },
+                                "height": 4995,
+                                "width": 6593,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f49/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f49.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f50",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6588,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f50",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f50"
+                                },
+                                "height": 4990,
+                                "width": 6588,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f50/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f50.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f51",
+                    "label": "NP",
+                    "height": 4994,
+                    "width": 6583,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f51",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f51"
+                                },
+                                "height": 4994,
+                                "width": 6583,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f51/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f51.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f52",
+                    "label": "NP",
+                    "height": 4993,
+                    "width": 6589,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f52",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f52"
+                                },
+                                "height": 4993,
+                                "width": 6589,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f52/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f52.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f53",
+                    "label": "NP",
+                    "height": 4992,
+                    "width": 6587,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f53",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f53"
+                                },
+                                "height": 4992,
+                                "width": 6587,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f53/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f53.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f54",
+                    "label": "NP",
+                    "height": 4991,
+                    "width": 6584,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f54",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f54"
+                                },
+                                "height": 4991,
+                                "width": 6584,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f54/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f54.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f55",
+                    "label": "NP",
+                    "height": 4990,
+                    "width": 6590,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f55",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f55"
+                                },
+                                "height": 4990,
+                                "width": 6590,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f55/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f55.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f56",
+                    "label": "NP",
+                    "height": 4995,
+                    "width": 6595,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f56",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f56"
+                                },
+                                "height": 4995,
+                                "width": 6595,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f56/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f56.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f57",
+                    "label": "NP",
+                    "height": 4991,
+                    "width": 6588,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f57",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f57"
+                                },
+                                "height": 4991,
+                                "width": 6588,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f57/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f57.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f58",
+                    "label": "NP",
+                    "height": 4997,
+                    "width": 6584,
+                    "images": [
+                        {
+                            "motivation": "sc:painting",
+                            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f58",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "service": {
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f58"
+                                },
+                                "height": 4997,
+                                "width": 6584,
+                                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/f58/full/full/0/native.jpg",
+                                "@type": "dctypes:Image"
+                            },
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753/f58.thumbnail"},
+                    "@type": "sc:Canvas"
+                },
                 {
                     "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/canvas/f59",
                     "label": "NP",
@@ -94,11 +1657,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b7ebf4b9-2145-42f1-9e6d-8d499e2a77b0",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4f31ce7b-eab2-438f-b62c-0267cdb63adc",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b7ebf4b9-2145-42f1-9e6d-8d499e2a77b0/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4f31ce7b-eab2-438f-b62c-0267cdb63adc/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -153,11 +1716,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf380851-42f0-4259-836e-198087891663",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf1b145c-7d7b-4720-ae86-481c30f91bad",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf380851-42f0-4259-836e-198087891663/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf1b145c-7d7b-4720-ae86-481c30f91bad/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -212,11 +1775,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2d4b5a2e-f825-47dc-a0f0-429a6d1ad6e0",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3f2e957b-17ec-4312-b5ff-96ffcba258ed",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2d4b5a2e-f825-47dc-a0f0-429a6d1ad6e0/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3f2e957b-17ec-4312-b5ff-96ffcba258ed/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -271,11 +1834,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/eed9f5ac-3f8c-47e7-9961-4c2655e3e8e7",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dd881dae-22f1-49a3-bddc-35166ec70799",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/eed9f5ac-3f8c-47e7-9961-4c2655e3e8e7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dd881dae-22f1-49a3-bddc-35166ec70799/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -292,7 +1855,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/eed9f5ac-3f8c-47e7-9961-4c2655e3e8e7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dd881dae-22f1-49a3-bddc-35166ec70799/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -309,7 +1872,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/eed9f5ac-3f8c-47e7-9961-4c2655e3e8e7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dd881dae-22f1-49a3-bddc-35166ec70799/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -326,7 +1889,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/eed9f5ac-3f8c-47e7-9961-4c2655e3e8e7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dd881dae-22f1-49a3-bddc-35166ec70799/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -381,11 +1944,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7dffe322-6498-42e8-a730-884d81cc7c34",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7dffe322-6498-42e8-a730-884d81cc7c34/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -402,7 +1965,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7dffe322-6498-42e8-a730-884d81cc7c34/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -419,7 +1982,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7dffe322-6498-42e8-a730-884d81cc7c34/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -436,7 +1999,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7dffe322-6498-42e8-a730-884d81cc7c34/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -453,7 +2016,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7dffe322-6498-42e8-a730-884d81cc7c34/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -470,7 +2033,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7dffe322-6498-42e8-a730-884d81cc7c34/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -487,7 +2050,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7dffe322-6498-42e8-a730-884d81cc7c34/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -504,7 +2067,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7dffe322-6498-42e8-a730-884d81cc7c34/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -559,11 +2122,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3f8bf0f-032d-4098-a049-02e27eff727e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3f8bf0f-032d-4098-a049-02e27eff727e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -580,7 +2143,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3f8bf0f-032d-4098-a049-02e27eff727e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -597,7 +2160,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3f8bf0f-032d-4098-a049-02e27eff727e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -614,7 +2177,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3f8bf0f-032d-4098-a049-02e27eff727e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -631,7 +2194,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3f8bf0f-032d-4098-a049-02e27eff727e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -648,7 +2211,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3f8bf0f-032d-4098-a049-02e27eff727e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -665,7 +2228,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3f8bf0f-032d-4098-a049-02e27eff727e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -682,7 +2245,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3f8bf0f-032d-4098-a049-02e27eff727e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -699,7 +2262,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3f8bf0f-032d-4098-a049-02e27eff727e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -716,7 +2279,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3f8bf0f-032d-4098-a049-02e27eff727e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -733,7 +2296,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3f8bf0f-032d-4098-a049-02e27eff727e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -788,11 +2351,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3b454a6-8286-47e2-9bfb-43da21e6754d",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2649f911-2635-4c5c-bc3d-97b014565c2e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3b454a6-8286-47e2-9bfb-43da21e6754d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2649f911-2635-4c5c-bc3d-97b014565c2e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -809,7 +2372,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3b454a6-8286-47e2-9bfb-43da21e6754d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2649f911-2635-4c5c-bc3d-97b014565c2e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -826,7 +2389,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a3b454a6-8286-47e2-9bfb-43da21e6754d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2649f911-2635-4c5c-bc3d-97b014565c2e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -881,11 +2444,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ba8ec633-3a2e-4d79-91ee-718fa055b629",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ba8ec633-3a2e-4d79-91ee-718fa055b629/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -902,7 +2465,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ba8ec633-3a2e-4d79-91ee-718fa055b629/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -919,7 +2482,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ba8ec633-3a2e-4d79-91ee-718fa055b629/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -936,7 +2499,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ba8ec633-3a2e-4d79-91ee-718fa055b629/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -953,7 +2516,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ba8ec633-3a2e-4d79-91ee-718fa055b629/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -970,7 +2533,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ba8ec633-3a2e-4d79-91ee-718fa055b629/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -987,7 +2550,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/ba8ec633-3a2e-4d79-91ee-718fa055b629/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1042,11 +2605,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1063,7 +2626,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1080,7 +2643,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1097,7 +2660,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1114,7 +2677,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1131,7 +2694,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1148,7 +2711,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1165,7 +2728,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1182,7 +2745,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1199,7 +2762,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1216,7 +2779,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1233,7 +2796,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1250,7 +2813,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a04559f3-cd72-4145-bcd1-3864824092a7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1305,11 +2868,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1326,7 +2889,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1343,7 +2906,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1360,7 +2923,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1377,7 +2940,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1394,7 +2957,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1411,7 +2974,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1428,7 +2991,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1445,7 +3008,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1462,7 +3025,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1479,7 +3042,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1496,7 +3059,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1513,7 +3076,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1530,7 +3093,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/75e64d49-7164-4739-be64-66fc39024ecf/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1585,11 +3148,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3a32822-6839-4c2c-a357-0476d597a63d",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3a32822-6839-4c2c-a357-0476d597a63d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1606,7 +3169,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3a32822-6839-4c2c-a357-0476d597a63d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1623,7 +3186,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3a32822-6839-4c2c-a357-0476d597a63d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1640,7 +3203,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3a32822-6839-4c2c-a357-0476d597a63d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1657,7 +3220,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3a32822-6839-4c2c-a357-0476d597a63d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1674,7 +3237,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3a32822-6839-4c2c-a357-0476d597a63d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1691,7 +3254,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3a32822-6839-4c2c-a357-0476d597a63d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1708,7 +3271,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3a32822-6839-4c2c-a357-0476d597a63d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1725,7 +3288,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3a32822-6839-4c2c-a357-0476d597a63d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1742,7 +3305,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3a32822-6839-4c2c-a357-0476d597a63d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1759,7 +3322,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e3a32822-6839-4c2c-a357-0476d597a63d/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1814,11 +3377,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/73eda1ab-cf93-4010-9301-5b365d22e52e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/73eda1ab-cf93-4010-9301-5b365d22e52e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1835,7 +3398,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/73eda1ab-cf93-4010-9301-5b365d22e52e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1852,7 +3415,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/73eda1ab-cf93-4010-9301-5b365d22e52e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1869,7 +3432,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/73eda1ab-cf93-4010-9301-5b365d22e52e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1886,7 +3449,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/73eda1ab-cf93-4010-9301-5b365d22e52e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1903,7 +3466,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/73eda1ab-cf93-4010-9301-5b365d22e52e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1920,7 +3483,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/73eda1ab-cf93-4010-9301-5b365d22e52e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1937,7 +3500,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/73eda1ab-cf93-4010-9301-5b365d22e52e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1954,7 +3517,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/73eda1ab-cf93-4010-9301-5b365d22e52e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1971,7 +3534,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/73eda1ab-cf93-4010-9301-5b365d22e52e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2026,11 +3589,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7bb12426-c477-4650-9ced-567043fce956",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7bb12426-c477-4650-9ced-567043fce956/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2047,7 +3610,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7bb12426-c477-4650-9ced-567043fce956/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2064,7 +3627,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7bb12426-c477-4650-9ced-567043fce956/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2081,7 +3644,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7bb12426-c477-4650-9ced-567043fce956/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2098,7 +3661,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7bb12426-c477-4650-9ced-567043fce956/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2115,7 +3678,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7bb12426-c477-4650-9ced-567043fce956/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2132,7 +3695,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7bb12426-c477-4650-9ced-567043fce956/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2187,11 +3750,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d360df0d-9473-4a18-a457-766522e75692",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d360df0d-9473-4a18-a457-766522e75692/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2208,7 +3771,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d360df0d-9473-4a18-a457-766522e75692/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2225,7 +3788,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d360df0d-9473-4a18-a457-766522e75692/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2242,7 +3805,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d360df0d-9473-4a18-a457-766522e75692/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2259,7 +3822,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d360df0d-9473-4a18-a457-766522e75692/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2276,7 +3839,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d360df0d-9473-4a18-a457-766522e75692/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2293,7 +3856,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d360df0d-9473-4a18-a457-766522e75692/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2310,7 +3873,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d360df0d-9473-4a18-a457-766522e75692/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2327,7 +3890,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d360df0d-9473-4a18-a457-766522e75692/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2344,7 +3907,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d360df0d-9473-4a18-a457-766522e75692/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2399,11 +3962,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2420,7 +3983,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2437,7 +4000,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2454,7 +4017,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2471,7 +4034,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2488,7 +4051,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2505,7 +4068,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2522,7 +4085,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2539,7 +4102,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2556,7 +4119,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2573,7 +4136,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2590,7 +4153,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2607,7 +4170,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2624,7 +4187,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7d6f277a-78ad-4aea-a450-d619656a3065/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2679,11 +4242,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/acfdf192-a3ec-4b85-995a-ef60f8d61106",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a765fa6d-fd7a-4496-b0f5-595cb4655369",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/acfdf192-a3ec-4b85-995a-ef60f8d61106/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a765fa6d-fd7a-4496-b0f5-595cb4655369/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2700,7 +4263,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/acfdf192-a3ec-4b85-995a-ef60f8d61106/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a765fa6d-fd7a-4496-b0f5-595cb4655369/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2717,7 +4280,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/acfdf192-a3ec-4b85-995a-ef60f8d61106/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a765fa6d-fd7a-4496-b0f5-595cb4655369/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2734,7 +4297,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/acfdf192-a3ec-4b85-995a-ef60f8d61106/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a765fa6d-fd7a-4496-b0f5-595cb4655369/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2751,7 +4314,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/acfdf192-a3ec-4b85-995a-ef60f8d61106/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a765fa6d-fd7a-4496-b0f5-595cb4655369/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2806,7 +4369,7 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b3c36500-921e-4622-a914-6d87621c27d3",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/81a0882a-5bc9-4953-99f7-c48574ae69eb",
                             "type": "AnnotationPage",
                             "items": []
                         }
@@ -2847,7 +4410,7 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/31e5fe2f-56f6-44be-8d48-3bc31800e921",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/74b823db-9f7a-4c12-8c1e-1f7d1e095587",
                             "type": "AnnotationPage",
                             "items": []
                         }
@@ -2888,7 +4451,7 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/435d6aff-ccbb-4f4c-9683-ecb437b64461",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2bb66c3f-45a8-49e4-b935-2df4aadd1072",
                             "type": "AnnotationPage",
                             "items": []
                         }
@@ -2929,7 +4492,7 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1d50707f-6796-49a6-8655-e0e66da3e799",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e9795565-5dca-45f3-8915-441a654020fe",
                             "type": "AnnotationPage",
                             "items": []
                         }
@@ -2970,11 +4533,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8eea1c0c-dbc5-4e4d-85ca-507ff077a9d7",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6513c3c-ce43-4553-bd10-71f2405bac59",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/8eea1c0c-dbc5-4e4d-85ca-507ff077a9d7/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6513c3c-ce43-4553-bd10-71f2405bac59/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3029,11 +4592,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d0382822-eeee-445a-8be6-b237847ae981",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5992e8f1-ecac-499a-b62f-95b423043e2e",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d0382822-eeee-445a-8be6-b237847ae981/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5992e8f1-ecac-499a-b62f-95b423043e2e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3050,7 +4613,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d0382822-eeee-445a-8be6-b237847ae981/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5992e8f1-ecac-499a-b62f-95b423043e2e/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3070,7 +4633,13 @@
                         }
                     ]
                 }
-            ]
+            ],
+            "label": "Current Page Order",
+            "@type": "sc:Sequence",
+            "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90619753/sequence/default"
         }
-    ]
+    ],
+    "thumbnail": {"@id": "https://gallica.bnf.fr/ark:/12148/btv1b90619753.thumbnail"},
+    "@type": "sc:Manifest",
+    "@context": "http://iiif.io/api/presentation/2/context.json"
 }
