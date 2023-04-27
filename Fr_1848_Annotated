@@ -1657,11 +1657,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4f31ce7b-eab2-438f-b62c-0267cdb63adc",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a9e4b495-d406-4a61-b6c6-bcbf2f5528e7",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4f31ce7b-eab2-438f-b62c-0267cdb63adc/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a9e4b495-d406-4a61-b6c6-bcbf2f5528e7/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1716,11 +1716,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf1b145c-7d7b-4720-ae86-481c30f91bad",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6759af5c-5fb8-48ca-8949-3fea8ad2e7df",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf1b145c-7d7b-4720-ae86-481c30f91bad/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6759af5c-5fb8-48ca-8949-3fea8ad2e7df/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1775,11 +1775,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3f2e957b-17ec-4312-b5ff-96ffcba258ed",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a7330657-b735-45b7-a0e2-7f454efc7796",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/3f2e957b-17ec-4312-b5ff-96ffcba258ed/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a7330657-b735-45b7-a0e2-7f454efc7796/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1834,11 +1834,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dd881dae-22f1-49a3-bddc-35166ec70799",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e46acc1d-edf1-4229-9922-3cbfedf83fc0",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dd881dae-22f1-49a3-bddc-35166ec70799/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e46acc1d-edf1-4229-9922-3cbfedf83fc0/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1855,7 +1855,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dd881dae-22f1-49a3-bddc-35166ec70799/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e46acc1d-edf1-4229-9922-3cbfedf83fc0/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1872,7 +1872,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dd881dae-22f1-49a3-bddc-35166ec70799/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e46acc1d-edf1-4229-9922-3cbfedf83fc0/2",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1889,7 +1889,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dd881dae-22f1-49a3-bddc-35166ec70799/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e46acc1d-edf1-4229-9922-3cbfedf83fc0/3",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1944,11 +1944,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6fa6611-47af-4c12-a62c-5a1d99362528",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6fa6611-47af-4c12-a62c-5a1d99362528/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1965,7 +1965,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6fa6611-47af-4c12-a62c-5a1d99362528/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1982,7 +1982,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6fa6611-47af-4c12-a62c-5a1d99362528/2",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -1999,7 +1999,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6fa6611-47af-4c12-a62c-5a1d99362528/3",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2016,7 +2016,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6fa6611-47af-4c12-a62c-5a1d99362528/4",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2033,7 +2033,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6fa6611-47af-4c12-a62c-5a1d99362528/5",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2050,7 +2050,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6fa6611-47af-4c12-a62c-5a1d99362528/6",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2067,7 +2067,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a224458a-2b33-4813-976a-7ce394ff7cee/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6fa6611-47af-4c12-a62c-5a1d99362528/7",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2122,11 +2122,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e023794-d2d1-4902-a47f-f67c56441838",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e023794-d2d1-4902-a47f-f67c56441838/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2143,7 +2143,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e023794-d2d1-4902-a47f-f67c56441838/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2160,7 +2160,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e023794-d2d1-4902-a47f-f67c56441838/2",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2177,7 +2177,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e023794-d2d1-4902-a47f-f67c56441838/3",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2194,7 +2194,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e023794-d2d1-4902-a47f-f67c56441838/4",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2211,7 +2211,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e023794-d2d1-4902-a47f-f67c56441838/5",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2228,7 +2228,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e023794-d2d1-4902-a47f-f67c56441838/6",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2245,7 +2245,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e023794-d2d1-4902-a47f-f67c56441838/7",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2262,7 +2262,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e023794-d2d1-4902-a47f-f67c56441838/8",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2279,7 +2279,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e023794-d2d1-4902-a47f-f67c56441838/9",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2296,7 +2296,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/cf234c84-ee15-4121-8771-bc03ed9f2e09/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/4e023794-d2d1-4902-a47f-f67c56441838/10",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2351,11 +2351,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2649f911-2635-4c5c-bc3d-97b014565c2e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c8e854fc-26ce-4227-bb99-4989f64b2ae9",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2649f911-2635-4c5c-bc3d-97b014565c2e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c8e854fc-26ce-4227-bb99-4989f64b2ae9/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2372,7 +2372,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2649f911-2635-4c5c-bc3d-97b014565c2e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c8e854fc-26ce-4227-bb99-4989f64b2ae9/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2389,7 +2389,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2649f911-2635-4c5c-bc3d-97b014565c2e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/c8e854fc-26ce-4227-bb99-4989f64b2ae9/2",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2444,11 +2444,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f3ee2782-9ea5-40c0-9b91-8f151d9aab7b",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f3ee2782-9ea5-40c0-9b91-8f151d9aab7b/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2465,7 +2465,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f3ee2782-9ea5-40c0-9b91-8f151d9aab7b/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2482,7 +2482,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f3ee2782-9ea5-40c0-9b91-8f151d9aab7b/2",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2499,7 +2499,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f3ee2782-9ea5-40c0-9b91-8f151d9aab7b/3",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2516,7 +2516,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f3ee2782-9ea5-40c0-9b91-8f151d9aab7b/4",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2533,7 +2533,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f3ee2782-9ea5-40c0-9b91-8f151d9aab7b/5",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2550,7 +2550,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e519acb3-0d8a-4b03-a30a-2574215f58e1/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/f3ee2782-9ea5-40c0-9b91-8f151d9aab7b/6",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2605,11 +2605,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2626,7 +2626,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2643,7 +2643,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942/2",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2660,7 +2660,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942/3",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2677,7 +2677,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942/4",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2694,7 +2694,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942/5",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2711,7 +2711,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942/6",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2728,7 +2728,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942/7",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2745,7 +2745,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942/8",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2762,7 +2762,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942/9",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2779,7 +2779,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942/10",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2796,7 +2796,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942/11",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2813,7 +2813,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/032cc48c-56a6-4eed-aa4c-6f467aba2698/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/67d5c7fa-6cbd-45e1-9c03-2529c3f16942/12",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2868,11 +2868,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2889,7 +2889,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2906,7 +2906,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/2",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2923,7 +2923,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/3",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2940,7 +2940,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/4",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2957,7 +2957,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/5",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2974,7 +2974,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/6",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -2991,7 +2991,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/7",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3008,7 +3008,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/8",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3025,7 +3025,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/9",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3042,7 +3042,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/10",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3059,7 +3059,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/11",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3076,7 +3076,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/12",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3093,7 +3093,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/d19a890d-b6bc-4c0a-bcfc-fa0c6c142d7e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7b69d8f9-0623-4026-8eca-115f7d912d98/13",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3148,11 +3148,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8640532-1b1c-47dd-8e78-63c9dde7a2c1",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8640532-1b1c-47dd-8e78-63c9dde7a2c1/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3169,7 +3169,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8640532-1b1c-47dd-8e78-63c9dde7a2c1/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3186,7 +3186,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8640532-1b1c-47dd-8e78-63c9dde7a2c1/2",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3203,7 +3203,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8640532-1b1c-47dd-8e78-63c9dde7a2c1/3",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3220,7 +3220,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8640532-1b1c-47dd-8e78-63c9dde7a2c1/4",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3237,7 +3237,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8640532-1b1c-47dd-8e78-63c9dde7a2c1/5",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3254,7 +3254,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8640532-1b1c-47dd-8e78-63c9dde7a2c1/6",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3271,7 +3271,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8640532-1b1c-47dd-8e78-63c9dde7a2c1/7",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3288,7 +3288,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8640532-1b1c-47dd-8e78-63c9dde7a2c1/8",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3305,7 +3305,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8640532-1b1c-47dd-8e78-63c9dde7a2c1/9",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3322,7 +3322,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/93438cb8-e4fd-486f-a40b-e5823b609767/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/b8640532-1b1c-47dd-8e78-63c9dde7a2c1/10",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3377,11 +3377,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e0578e4-27a1-4be7-8705-38e652a89b29",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e0578e4-27a1-4be7-8705-38e652a89b29/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3398,7 +3398,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e0578e4-27a1-4be7-8705-38e652a89b29/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3415,7 +3415,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e0578e4-27a1-4be7-8705-38e652a89b29/2",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3432,7 +3432,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e0578e4-27a1-4be7-8705-38e652a89b29/3",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3449,7 +3449,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e0578e4-27a1-4be7-8705-38e652a89b29/4",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3466,7 +3466,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e0578e4-27a1-4be7-8705-38e652a89b29/5",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3483,7 +3483,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e0578e4-27a1-4be7-8705-38e652a89b29/6",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3500,7 +3500,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e0578e4-27a1-4be7-8705-38e652a89b29/7",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3517,7 +3517,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e0578e4-27a1-4be7-8705-38e652a89b29/8",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3534,7 +3534,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/756175ab-e238-463b-b1f4-565af1a976ec/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/6e0578e4-27a1-4be7-8705-38e652a89b29/9",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3589,11 +3589,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dad34d42-8ec0-405b-add3-3f6fbc84d728",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dad34d42-8ec0-405b-add3-3f6fbc84d728/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3610,7 +3610,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dad34d42-8ec0-405b-add3-3f6fbc84d728/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3627,7 +3627,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dad34d42-8ec0-405b-add3-3f6fbc84d728/2",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3644,7 +3644,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dad34d42-8ec0-405b-add3-3f6fbc84d728/3",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3661,7 +3661,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dad34d42-8ec0-405b-add3-3f6fbc84d728/4",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3678,7 +3678,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dad34d42-8ec0-405b-add3-3f6fbc84d728/5",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3695,7 +3695,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/9f27768e-e9df-41a1-b911-241f8eaa140e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/dad34d42-8ec0-405b-add3-3f6fbc84d728/6",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3750,11 +3750,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da48c8ff-9660-4fbc-8006-2ae9f273d3a2",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da48c8ff-9660-4fbc-8006-2ae9f273d3a2/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3771,7 +3771,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da48c8ff-9660-4fbc-8006-2ae9f273d3a2/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3788,7 +3788,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da48c8ff-9660-4fbc-8006-2ae9f273d3a2/2",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3805,7 +3805,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da48c8ff-9660-4fbc-8006-2ae9f273d3a2/3",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3822,7 +3822,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da48c8ff-9660-4fbc-8006-2ae9f273d3a2/4",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3839,7 +3839,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da48c8ff-9660-4fbc-8006-2ae9f273d3a2/5",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3856,7 +3856,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da48c8ff-9660-4fbc-8006-2ae9f273d3a2/6",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3873,7 +3873,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da48c8ff-9660-4fbc-8006-2ae9f273d3a2/7",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3890,7 +3890,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da48c8ff-9660-4fbc-8006-2ae9f273d3a2/8",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3907,7 +3907,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/689fd9c8-de25-4ee7-9b8e-4270285680d2/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/da48c8ff-9660-4fbc-8006-2ae9f273d3a2/9",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3962,11 +3962,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -3983,7 +3983,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4000,7 +4000,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/2",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4017,7 +4017,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/3",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4034,7 +4034,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/4",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4051,7 +4051,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/5",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4068,7 +4068,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/6",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4085,7 +4085,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/7",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4102,7 +4102,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/8",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4119,7 +4119,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/9",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4136,7 +4136,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/10",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4153,7 +4153,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/11",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4170,7 +4170,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/12",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4187,7 +4187,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e00e8d63-8f04-440e-8765-941783d41652/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/63b32c27-b20a-47be-ab52-dc1f975ed670/13",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4242,11 +4242,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a765fa6d-fd7a-4496-b0f5-595cb4655369",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6c7abd9-fa07-4237-9e11-84d621b74783",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a765fa6d-fd7a-4496-b0f5-595cb4655369/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6c7abd9-fa07-4237-9e11-84d621b74783/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4263,7 +4263,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a765fa6d-fd7a-4496-b0f5-595cb4655369/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6c7abd9-fa07-4237-9e11-84d621b74783/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4280,7 +4280,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a765fa6d-fd7a-4496-b0f5-595cb4655369/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6c7abd9-fa07-4237-9e11-84d621b74783/2",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4297,7 +4297,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a765fa6d-fd7a-4496-b0f5-595cb4655369/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6c7abd9-fa07-4237-9e11-84d621b74783/3",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4314,7 +4314,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a765fa6d-fd7a-4496-b0f5-595cb4655369/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6c7abd9-fa07-4237-9e11-84d621b74783/4",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4369,7 +4369,7 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/81a0882a-5bc9-4953-99f7-c48574ae69eb",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/1e69f365-6937-457f-985b-7b0c3fc0143e",
                             "type": "AnnotationPage",
                             "items": []
                         }
@@ -4410,7 +4410,7 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/74b823db-9f7a-4c12-8c1e-1f7d1e095587",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/abd713ec-05b2-43a7-a037-d81de916f993",
                             "type": "AnnotationPage",
                             "items": []
                         }
@@ -4451,7 +4451,7 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/2bb66c3f-45a8-49e4-b935-2df4aadd1072",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/0534de1b-edd3-4ca5-a527-96d7d13dd958",
                             "type": "AnnotationPage",
                             "items": []
                         }
@@ -4492,7 +4492,7 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/e9795565-5dca-45f3-8915-441a654020fe",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/474f5442-edcc-44db-bd99-665cc59de66d",
                             "type": "AnnotationPage",
                             "items": []
                         }
@@ -4533,11 +4533,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6513c3c-ce43-4553-bd10-71f2405bac59",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/28da5f53-d967-4247-86b3-f030348dd9f8",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/a6513c3c-ce43-4553-bd10-71f2405bac59/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/28da5f53-d967-4247-86b3-f030348dd9f8/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4592,11 +4592,11 @@
                     ],
                     "annotations": [
                         {
-                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5992e8f1-ecac-499a-b62f-95b423043e2e",
+                            "@id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7106b0ef-9064-4317-bc4e-b03ec712ff07",
                             "type": "AnnotationPage",
                             "items": [
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5992e8f1-ecac-499a-b62f-95b423043e2e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7106b0ef-9064-4317-bc4e-b03ec712ff07/0",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
@@ -4613,7 +4613,7 @@
                                     }
                                 },
                                 {
-                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/5992e8f1-ecac-499a-b62f-95b423043e2e/0",
+                                    "id": "https://172.28.36.109/iiif/Paris_bnf_Fr_18648/7106b0ef-9064-4317-bc4e-b03ec712ff07/1",
                                     "type": "Annotation",
                                     "motivation": "tagging",
                                     "body": {
