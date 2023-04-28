@@ -1,0 +1,447 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965341.0x000001/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "British Library Add MS 11283 Bestiary",
+    "description": "<span><p>This manuscript is the earliest extant manuscript of a type of bestiaries known as 'Clark's Second-Family' that brings in new materials by following a system of classification into beasts, birds and reptiles. This taxonomy is supported by illustrations. </p><p>Contents:</p><p>ff. 1r-41r: A Bestiary, beginning: 'Leo fortissimus bestiarum ad nullius pavebit occursum'. Ending: 'Nam amor feminarum quarum peccatum ab initio cepit id est ab Adam usque nunc in filios inobediente debachatur'.</p><p>Decoration:</p><p>1 large drawing in red and green (f. 41r). 100 unframed drawings mainly in brown ink, some with colour wash (e.g., f. 23r). Several drawings are pricked for pounce transfer. Small decorated initials in red and blue with some pen flourishing.</p><p>Animals depicted in the drawings include: </p><p>f. 1r: A lion;</p><p>f. 2r: A horse; a leopard;</p><p>f. 3v: A griffon with prey in its claws;</p><p>f. 4r: An elephant;</p><p>f. 5r: A hyena eating a human leg from a tomb;</p><p>f. 8r: A crocodile ('cocodrilllus') with a dead figure in his claws;</p><p>f. 10r: A king setting dogs to attack two men;</p><p>f. 13r: A camel; a dromedary;</p><p>f. 17r: A vulture; cranes;</p><p>f. 23r: A peacock; a hen, both in colours;</p><p>f. 27v: Snakes;</p><p>f. 41r: Two human figures in a lake of fire.</p><p> Two artists worked on the drawings, according to Clark, <i>Medieval B\u2026 Text continues in the catalogue record</i>\u2026 Text <a href=\"http://searcharchives.bl.uk/IAMS_VU2:IAMS032-002109041\">continues in the catalogue record</a></p></span>",
+    "metadata": [
+        {
+            "label": "Identifier",
+            "value": "Add MS 11283"
+        },
+        {
+            "label": "Held by",
+            "value": "<a href=\"https://www.bl.uk\">The British Library</a>"
+        },
+        {
+            "label": "Title",
+            "value": "Bestiary"
+        },
+        {
+            "label": "Place",
+            "value": "England"
+        },
+        {
+            "label": "Date",
+            "value": "4th quarter of the 12th century"
+        },
+        {
+            "label": "Language",
+            "value": "Latin"
+        },
+        {
+            "label": "Catalogue record",
+            "value": "<a href=\"http://searcharchives.bl.uk/IAMS_VU2:IAMS032-002109041\">View the catalogue record</a>"
+        },
+        {
+            "label": "Citation",
+            "value": "<span>British Library Add MS 11283, &lt;http://access.bl.uk/item/viewer/ark:/81055/vdc_100055965341.0x000001&gt;</span>"
+        },
+        {
+            "label": "Digitisation funded by",
+            "value": "The Polonsky Foundation"
+        },
+        {
+            "label": "Digitised by",
+            "value": "The British Library"
+        }
+    ],
+    "related": [
+        {
+            "@id": "http://access.bl.uk/item/viewer/ark:/81055/vdc_100055965341.0x000001",
+            "format": "text/html",
+            "label": "View at The British Library"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://iiif.io/api/auth/0/context.json",
+            "@id": "https://api.bl.uk/auth/iiif/login",
+            "profile": "http://iiif.io/api/auth/0/login",
+            "description": "Some content may only be available to registered readers or staff. Please log-in to The British Library to continue.",
+            "header": "Please Log-In",
+            "label": "Login to The British Library",
+            "service": {
+                "@id": "https://api.bl.uk/auth/iiif/token",
+                "profile": "http://iiif.io/api/auth/0/token"
+            }
+        },
+        {
+            "@context": "http://universalviewer.io/context.json",
+            "@id": "http://access.bl.uk/item/share/ark:/81055/vdc_100055965341.0x000001",
+            "profile": "http://universalviewer.io/share-extensions-profile"
+        },
+        {
+            "@context": "http://universalviewer.io/context.json",
+            "@id": "http://access.bl.uk/item/feedback/ark:/81055/vdc_100055965341.0x000001",
+            "profile": "http://universalviewer.io/feedback-extensions-profile"
+        },
+        {
+            "@context": "http://universalviewer.io/context.json",
+            "@id": "http://access.bl.uk/item/print/ark:/81055/vdc_100055965341.0x000001",
+            "profile": "http://universalviewer.io/print-extensions-profile"
+        }
+    ],
+    "logo": "https://www.bl.uk/images/bl_logo_100.gif",
+    "license": "https://www.bl.uk/help/how-to-reuse-images-of-unpublished-manuscripts",
+    "attribution": "<span>Public Domain in most countries, other than the UK.</span>",
+    "thumbnail": {
+        "@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056091173.0x000001/full/max/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056091173.0x000001",
+            "protocol": "http://iiif.io/api/image",
+            "width": 5526,
+            "height": 7940,
+            "tiles": [
+                {
+                    "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16,
+                        32
+                    ],
+                    "width": 256
+                }
+            ],
+            "profile": [
+                "http://iiif.io/api/image/2/level2.json",
+                {
+                    "qualities": [
+                        "gray",
+                        "color",
+                        "bitonal"
+                    ],
+                    "supports": [
+                        "profileLinkHeader",
+                        "rotationArbitrary",
+                        "regionSquare",
+                        "mirroring"
+                    ]
+                }
+            ]
+        }
+    },
+    "sequences": [
+        {
+            "canvases": [
+                {
+                    "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x000009",
+                    "@type": "sc:Canvas",
+                    "label": "fs.iiir",
+                    "width": 5160,
+                    "height": 8009,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056091173.0x000008/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056091173.0x000008",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 5160,
+                                    "height": 8009,
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "qualities": [
+                                                "gray",
+                                                "color",
+                                                "bitonal"
+                                            ],
+                                            "supports": [
+                                                "profileLinkHeader",
+                                                "rotationArbitrary",
+                                                "regionSquare",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            },
+                            "on": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x000009"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x000009/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/London_BL_Add_11283/770356e7-1252-4f93-a513-e5890b771ba9",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/London_BL_Add_11283/770356e7-1252-4f93-a513-e5890b771ba9/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "reverse-coa",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x000009",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1463,3104,1488,1850"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x000013",
+                    "@type": "sc:Canvas",
+                    "label": "f.5r",
+                    "width": 5255,
+                    "height": 8009,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056091173.0x000012/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056091173.0x000012",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 5255,
+                                    "height": 8009,
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "qualities": [
+                                                "gray",
+                                                "color",
+                                                "bitonal"
+                                            ],
+                                            "supports": [
+                                                "profileLinkHeader",
+                                                "rotationArbitrary",
+                                                "regionSquare",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            },
+                            "on": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x000013"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x000013/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/London_BL_Add_11283/47521128-a5d4-41de-bff0-53294e279f4f",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/London_BL_Add_11283/47521128-a5d4-41de-bff0-53294e279f4f/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "coa",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x000013",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=1545,4491,780,703"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x00002f",
+                    "@type": "sc:Canvas",
+                    "label": "f.19r",
+                    "width": 5308,
+                    "height": 8009,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056091173.0x00002e/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056091173.0x00002e",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 5308,
+                                    "height": 8009,
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "qualities": [
+                                                "gray",
+                                                "color",
+                                                "bitonal"
+                                            ],
+                                            "supports": [
+                                                "profileLinkHeader",
+                                                "rotationArbitrary",
+                                                "regionSquare",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            },
+                            "on": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x00002f"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x00002f/annotations",
+                            "@type": "sc:AnnotationList",
+                            "label": "COA"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "@id": "https://172.28.36.109/iiif/London_BL_Add_11283/17ad1a22-d97e-4680-a4fa-ec549b33a211",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://172.28.36.109/iiif/London_BL_Add_11283/17ad1a22-d97e-4680-a4fa-ec549b33a211/0",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "reverse-coa",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x00002f",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2350,3829,764,737"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/London_BL_Add_11283/17ad1a22-d97e-4680-a4fa-ec549b33a211/1",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "reverse-coa",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x00002f",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2066,3613,1207,1161"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/London_BL_Add_11283/17ad1a22-d97e-4680-a4fa-ec549b33a211/2",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "stamp",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x00002f",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2160,5801,1210,1108"
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "https://172.28.36.109/iiif/London_BL_Add_11283/17ad1a22-d97e-4680-a4fa-ec549b33a211/3",
+                                    "type": "Annotation",
+                                    "motivation": "tagging",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "coa",
+                                        "format": "text/plain"
+                                    },
+                                    "target": {
+                                        "source": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055965612.0x00002f",
+                                        "selector": {
+                                            "type": "FragmentSelector",
+                                            "value": "#xywh=2277,5893,929,894"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
